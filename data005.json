@@ -2372,15 +2372,6 @@
         "district": "Bayramiç"
     },
     {
-        "id": "10310",
-        "name": "Çömlekçi Baba Mezarı",
-        "lat": 41.432157483,
-        "lon": 27.088772114,
-        "category": "monument",
-        "city": "KIRKLARELI",
-        "district": "Babaeski"
-    },
-    {
         "id": "10314",
         "name": "Boyacı Baba Mezarı",
         "lat": 41.6671486,
@@ -3949,15 +3940,6 @@
         "district": "Şemdinli"
     },
     {
-        "id": "10573",
-        "name": "Ahmet Dede Mezarı (Babaeski)",
-        "lat": 41.428364419,
-        "lon": 27.094826082,
-        "category": "monument",
-        "city": "KIRKLARELI",
-        "district": "Babaeski"
-    },
-    {
         "id": "10574",
         "name": "Behiç Erkin Kabri ve Anıt Mezarı",
         "lat": 39.7753029,
@@ -4344,15 +4326,6 @@
         "category": "tomb",
         "city": "ISTANBUL",
         "district": "Fatih"
-    },
-    {
-        "id": "10627",
-        "name": "Danışman Dede Kabri",
-        "lat": 41.0736237,
-        "lon": 28.2439995,
-        "category": "monument",
-        "city": "ISTANBUL",
-        "district": "Silivri"
     },
     {
         "id": "10628",
