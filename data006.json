@@ -1,0 +1,6480 @@
+[
+    {
+        "id": "10922",
+        "name": "Divriği Ulu Camii ve Darüşşifası",
+        "name_en": "Divriği Great Mosque and Hospital",
+        "lat": 39.371222222,
+        "lon": 38.121583333,
+        "category": "monument",
+        "city": "SIVAS",
+        "district": "Divriği"
+    },
+    {
+        "id": "10925",
+        "name": "Sarıhan Kervansarayı",
+        "name_en": "Sarıhan Caravanserai",
+        "lat": 38.71166667,
+        "lon": 34.90888889,
+        "category": "monument",
+        "city": "NEVŞEHIR",
+        "district": "Ürgüp"
+    },
+    {
+        "id": "1120",
+        "name": "Yerebatan Sarnıcı",
+        "name_en": "Basilica Cistern",
+        "lat": 41.0084795,
+        "lon": 28.9783826,
+        "category": "other",
+        "city": "ISTANBUL",
+        "district": "Fatih"
+    },
+    {
+        "id": "1291",
+        "name": "Anıtkabir",
+        "name_en": "Anıtkabir",
+        "lat": 39.925011,
+        "lon": 32.8369019,
+        "category": "monument",
+        "city": "ANKARA",
+        "district": "Çankaya"
+    },
+    {
+        "id": "1399",
+        "name": "Hoşap Kalesi",
+        "name_en": "Hoşap Castle",
+        "lat": 38.3171537,
+        "lon": 43.8017738,
+        "category": "castle",
+        "city": "VAN",
+        "district": "Gürpınar"
+    },
+    {
+        "id": "1405",
+        "name": "Doğubayazıt Kalesi",
+        "name_en": "İshak Paşa Palace",
+        "lat": 39.5213124,
+        "lon": 44.1328644,
+        "category": "castle",
+        "city": "AĞRI",
+        "district": "Doğubayazıt"
+    },
+    {
+        "id": "1733",
+        "name": "Ankara Kalesi",
+        "name_en": "Ankara Castle",
+        "lat": 39.9414931,
+        "lon": 32.865427,
+        "category": "castle",
+        "city": "ANKARA",
+        "district": "Altındağ"
+    },
+    {
+        "id": "18091",
+        "name": "Sardes",
+        "lat": 38.486839,
+        "lon": 28.04228,
+        "category": "archaeological_site",
+        "city": "MANISA",
+        "district": "Salihli",
+        "image_source": "kulturenvanteri"
+    },
+    {
+        "id": "20846",
+        "name": "Aizanoi",
+        "lat": 39.202324,
+        "lon": 29.608713,
+        "category": "archaeological_site",
+        "city": "KÜTAHYA",
+        "district": "Çavdarhisar",
+        "image_source": "kulturenvanteri"
+    },
+    {
+        "id": "2120",
+        "name": "Harpy Tomb",
+        "name_en": "Harpy Tomb",
+        "lat": 36.3567949,
+        "lon": 29.3179725,
+        "category": "tomb",
+        "city": "ANTALYA",
+        "district": "Kaş"
+    },
+    {
+        "id": "216",
+        "name": "Topkapi Sarayı",
+        "name_en": "Topkapı Palace",
+        "lat": 41.011344,
+        "lon": 28.9832034,
+        "category": "museum",
+        "city": "ISTANBUL",
+        "district": "Fatih"
+    },
+    {
+        "id": "2208",
+        "name": "Harran",
+        "name_en": "Harran",
+        "lat": 36.8629297,
+        "lon": 39.0299134,
+        "category": "archaeological_site",
+        "city": "ŞANLIURFA",
+        "district": "Harran"
+    },
+    {
+        "id": "245",
+        "name": "Mardin Müzesi",
+        "name_en": "Mardin Museum",
+        "lat": 37.313782,
+        "lon": 40.7346344,
+        "category": "museum",
+        "city": "MARDIN",
+        "district": "Artuklu"
+    },
+    {
+        "id": "2672",
+        "name": "Kapılıkaya Kaya Mezarı",
+        "name_en": "Kapılıkaya Tomb",
+        "lat": 40.7538798,
+        "lon": 34.912585,
+        "category": "tomb",
+        "city": "ÇORUM",
+        "district": "Laçin"
+    },
+    {
+        "id": "3",
+        "name": "Alanya Kalesi",
+        "name_en": "Alanya Castle",
+        "lat": 36.5331062,
+        "lon": 31.9905642,
+        "category": "castle",
+        "city": "ANTALYA",
+        "district": "Alanya"
+    },
+    {
+        "id": "354",
+        "name": "Yazılıkaya",
+        "name_en": "Yazılıkaya",
+        "lat": 40.0254251,
+        "lon": 34.6327074,
+        "category": "archaeological_site",
+        "city": "ÇORUM",
+        "district": "Boğazkale"
+    },
+    {
+        "id": "3991",
+        "name": "Hatay Arkeoloji Müzesi",
+        "name_en": "Hatay Archaeology Museum",
+        "lat": 36.20194444,
+        "lon": 36.16,
+        "category": "museum",
+        "city": "HATAY",
+        "district": "Antakya"
+    },
+    {
+        "id": "3997",
+        "name": "Kariye Camii",
+        "name_en": "Chora Mosque",
+        "lat": 41.031111,
+        "lon": 28.939167,
+        "category": "mosque",
+        "city": "ISTANBUL",
+        "district": "Fatih"
+    },
+    {
+        "id": "3998",
+        "name": "Mevlana Müzesi",
+        "name_en": "Mevlana Museum",
+        "lat": 37.87055556,
+        "lon": 32.50472222,
+        "category": "museum",
+        "city": "KONYA",
+        "district": "Karatay"
+    },
+    {
+        "id": "4003",
+        "name": "Zeugma Mozaik Müzesi",
+        "name_en": "Zeugma Mosaic Museum",
+        "lat": 37.074881,
+        "lon": 37.386158,
+        "category": "museum",
+        "city": "GAZIANTEP",
+        "district": "Şehitkamil"
+    },
+    {
+        "id": "4007",
+        "name": "Ayasofya",
+        "name_en": "Hagia Sophia",
+        "lat": 41.008333333,
+        "lon": 28.98,
+        "category": "museum",
+        "city": "ISTANBUL",
+        "district": "Fatih"
+    },
+    {
+        "id": "4008",
+        "name": "Halikarnas Mozolesi",
+        "name_en": "Mausoleum of Halicarnassus",
+        "lat": 37.037942,
+        "lon": 27.424097,
+        "category": "museum",
+        "city": "MUĞLA",
+        "district": "Bodrum"
+    },
+    {
+        "id": "4010",
+        "name": "Rumeli Hisarı",
+        "name_en": "Rumelihisarı",
+        "lat": 41.084722222,
+        "lon": 29.056111111,
+        "category": "museum",
+        "city": "ISTANBUL",
+        "district": "Sarıyer"
+    },
+    {
+        "id": "4011",
+        "name": "Galata Kulesi",
+        "name_en": "Galata Tower",
+        "lat": 41.025632324,
+        "lon": 28.97415319,
+        "category": "museum",
+        "city": "ISTANBUL",
+        "district": "Beyoğlu"
+    },
+    {
+        "id": "4016",
+        "name": "Ayasofya Camii, Trabzon",
+        "name_en": "Hagia Sophia of Trabzon",
+        "lat": 41.003333333,
+        "lon": 39.696111111,
+        "category": "museum",
+        "city": "TRABZON",
+        "district": "Ortahisar"
+    },
+    {
+        "id": "4042",
+        "name": "Rahmi M. Koç Müzesi",
+        "name_en": "Rahmi M. Koç Museum",
+        "lat": 41.04227,
+        "lon": 28.94926,
+        "category": "museum",
+        "city": "ISTANBUL",
+        "district": "Beyoğlu"
+    },
+    {
+        "id": "4043",
+        "name": "Karatepe-Aslantaş Açık Hava Müzesi",
+        "name_en": "Karatepe-Aslantaş Open-Air Museum",
+        "lat": 37.30022,
+        "lon": 36.25004,
+        "category": "museum",
+        "city": "OSMANIYE",
+        "district": "Kadirli"
+    },
+    {
+        "id": "4044",
+        "name": "Amasya Arkeoloji ve Mumya Müzesi",
+        "name_en": "Amasya Archaeology and Mummy Museum",
+        "lat": 40.649444444,
+        "lon": 35.824722222,
+        "category": "museum",
+        "city": "AMASYA",
+        "district": "Amasya merkez"
+    },
+    {
+        "id": "4053",
+        "name": "Amasra Müzesi",
+        "name_en": "Amasra Museum",
+        "lat": 41.746944444,
+        "lon": 32.383055555,
+        "category": "museum",
+        "city": "BARTIN",
+        "district": "Amasra"
+    },
+    {
+        "id": "4063",
+        "name": "İstanbul Arkeoloji Müzeleri",
+        "name_en": "Istanbul Archaeology Museums",
+        "lat": 41.011669444,
+        "lon": 28.981388888,
+        "category": "museum",
+        "city": "ISTANBUL",
+        "district": "Fatih"
+    },
+    {
+        "id": "4064",
+        "name": "Anadolu Medeniyetleri Müzesi",
+        "name_en": "Museum of Anatolian Civilizations",
+        "lat": 39.938333,
+        "lon": 32.861944,
+        "category": "museum",
+        "city": "ANKARA",
+        "district": "Altındağ"
+    },
+    {
+        "id": "4078",
+        "name": "Konya Arkeoloji Müzesi",
+        "name_en": "Konya Archaeology Museum",
+        "lat": 37.867972222,
+        "lon": 32.4935,
+        "category": "museum",
+        "city": "KONYA",
+        "district": "Meram"
+    },
+    {
+        "id": "4093",
+        "name": "Ahlat Müzesi",
+        "name_en": "Ahlat Museum",
+        "lat": 38.738958913,
+        "lon": 42.454582489,
+        "category": "museum",
+        "city": "BITLIS",
+        "district": "Ahlat"
+    },
+    {
+        "id": "413",
+        "name": "Mamure Kalesi",
+        "name_en": "Mamure Castle",
+        "lat": 36.0813427,
+        "lon": 32.8953236,
+        "category": "castle",
+        "city": "MERSIN",
+        "district": "Anamur"
+    },
+    {
+        "id": "4190",
+        "name": "Tarihî Sinop Cezaevi",
+        "name_en": "Sinop Historical Prison",
+        "lat": 42.02444444,
+        "lon": 35.14305556,
+        "category": "museum",
+        "city": "SINOP",
+        "district": "Sinop merkez"
+    },
+    {
+        "id": "4304",
+        "name": "Panorama 1326 Bursa Fetih Müzesi",
+        "name_en": "Panorama 1326 Bursa Conquest Museum",
+        "lat": 40.186222222,
+        "lon": 29.075555555,
+        "category": "museum",
+        "city": "BURSA",
+        "district": "Osmangazi"
+    },
+    {
+        "id": "446",
+        "name": "Anavarza Kalesi",
+        "name_en": "Anavarza Castle",
+        "lat": 37.2522957,
+        "lon": 35.901757,
+        "category": "castle",
+        "city": "ADANA",
+        "district": "Kozan"
+    },
+    {
+        "id": "4713",
+        "name": "Safranbolu Kent Tarih Müzesi",
+        "name_en": "Safranbolu City History Museum",
+        "lat": 41.2455886,
+        "lon": 32.6904585,
+        "category": "museum",
+        "city": "KARABÜK",
+        "district": "Safranbolu"
+    },
+    {
+        "id": "4762",
+        "name": "Pera Müzesi",
+        "name_en": "Pera Museum",
+        "lat": 41.031805555,
+        "lon": 28.975194444,
+        "category": "museum",
+        "city": "ISTANBUL",
+        "district": "Beyoğlu"
+    },
+    {
+        "id": "4802",
+        "name": "Pergamon",
+        "name_en": "Pergamon",
+        "lat": 39.116667,
+        "lon": 27.183333,
+        "category": "archaeological_site",
+        "city": "IZMIR",
+        "district": "Bergama"
+    },
+    {
+        "id": "4803",
+        "name": "Troya",
+        "name_en": "Troy",
+        "lat": 39.9575,
+        "lon": 26.238888888,
+        "category": "archaeological_site",
+        "city": "CANAKKALE",
+        "district": "Çanakkale merkez"
+    },
+    {
+        "id": "4804",
+        "name": "Efes",
+        "name_en": "Ephesus",
+        "lat": 37.939722,
+        "lon": 27.340833,
+        "category": "archaeological_site",
+        "city": "IZMIR",
+        "district": "Selçuk"
+    },
+    {
+        "id": "4820",
+        "name": "Ksantos",
+        "name_en": "Xanthos",
+        "lat": 36.357132,
+        "lon": 29.319255,
+        "category": "archaeological_site",
+        "city": "ANTALYA",
+        "district": "Kaş"
+    },
+    {
+        "id": "4829",
+        "name": "Afrodisias",
+        "name_en": "Aphrodisias",
+        "lat": 37.708964,
+        "lon": 28.722332,
+        "category": "archaeological_site",
+        "city": "AYDIN",
+        "district": "Karacasu"
+    },
+    {
+        "id": "4831",
+        "name": "Aspendos",
+        "name_en": "Aspendos",
+        "lat": 36.93889,
+        "lon": 31.17222,
+        "category": "archaeological_site",
+        "city": "ANTALYA",
+        "district": "Serik"
+    },
+    {
+        "id": "4838",
+        "name": "Assos",
+        "name_en": "Assos",
+        "lat": 39.490556,
+        "lon": 26.336667,
+        "category": "archaeological_site",
+        "city": "CANAKKALE",
+        "district": "Ayvacik"
+    },
+    {
+        "id": "4848",
+        "name": "Myra",
+        "name_en": "Myra",
+        "lat": 36.250801,
+        "lon": 29.993638,
+        "category": "archaeological_site",
+        "city": "ANTALYA",
+        "district": "Demre"
+    },
+    {
+        "id": "492",
+        "name": "Hasankeyf Kalesi",
+        "name_en": "Hasankeyf",
+        "lat": 37.7106239,
+        "lon": 41.4088911,
+        "category": "castle",
+        "city": "BATMAN",
+        "district": "Hasankeyf"
+    },
+    {
+        "id": "4937",
+        "name": "Tlos",
+        "name_en": "Tlos",
+        "lat": 36.553889,
+        "lon": 29.420789,
+        "category": "archaeological_site",
+        "city": "MUĞLA",
+        "district": "Seydikemer"
+    },
+    {
+        "id": "5039",
+        "name": "Zeugma",
+        "name_en": "Zeugma",
+        "lat": 37.05861111,
+        "lon": 37.86583333,
+        "category": "archaeological_site",
+        "city": "GAZIANTEP",
+        "district": "Nizip"
+    },
+    {
+        "id": "5041",
+        "name": "Patara",
+        "name_en": "Patara",
+        "lat": 36.260565,
+        "lon": 29.313364,
+        "category": "archaeological_site",
+        "city": "ANTALYA",
+        "district": "Kaş"
+    },
+    {
+        "id": "5042",
+        "name": "Sagalassos",
+        "name_en": "Sagalassos",
+        "lat": 37.67805556,
+        "lon": 30.51944444,
+        "category": "archaeological_site",
+        "city": "BURDUR",
+        "district": "Ağlasun"
+    },
+    {
+        "id": "5121",
+        "name": "Ani",
+        "name_en": "Ani",
+        "lat": 40.5075,
+        "lon": 43.572777777,
+        "category": "archaeological_site",
+        "city": "KARS",
+        "district": "Kars merkez"
+    },
+    {
+        "id": "586",
+        "name": "Yıldız Sarayı",
+        "name_en": "Yıldız Palace",
+        "lat": 41.0507108,
+        "lon": 29.0117042,
+        "category": "other",
+        "city": "ISTANBUL",
+        "district": "Beşiktaş"
+    },
+    {
+        "id": "6",
+        "name": "Şanlıurfa Müzesi",
+        "name_en": "Sanliurfa Museum",
+        "lat": 37.1606455,
+        "lon": 38.7881115,
+        "category": "museum",
+        "city": "ŞANLIURFA",
+        "district": "Haliliye",
+        "image_source": "wiki-body"
+    },
+    {
+        "id": "6111",
+        "name": "Zerzevan Kalesi",
+        "name_en": "Zerzevan Castle",
+        "lat": 37.608333333,
+        "lon": 40.499166666,
+        "category": "archaeological_site",
+        "city": "DIYARBAKIR",
+        "district": "Çınar"
+    },
+    {
+        "id": "7569",
+        "name": "Hattuşa",
+        "name_en": "Hattusa",
+        "lat": 40.019722222,
+        "lon": 34.615277777,
+        "category": "archaeological_site",
+        "city": "ÇORUM",
+        "district": "Boğazkale"
+    },
+    {
+        "id": "7571",
+        "name": "Çatalhöyük",
+        "name_en": "Çatalhöyük",
+        "lat": 37.6675,
+        "lon": 32.828333333,
+        "category": "archaeological_site",
+        "city": "KONYA",
+        "district": "Çumra"
+    },
+    {
+        "id": "7574",
+        "name": "Göbeklitepe",
+        "name_en": "Göbekli Tepe",
+        "lat": 37.223055555,
+        "lon": 38.9225,
+        "category": "archaeological_site",
+        "city": "ŞANLIURFA",
+        "district": "Haliliye"
+    },
+    {
+        "id": "7581",
+        "name": "Kültepe",
+        "name_en": "Kültepe",
+        "lat": 38.85,
+        "lon": 35.633333333,
+        "category": "archaeological_site",
+        "city": "KAYSERI",
+        "district": "Kocasinan"
+    },
+    {
+        "id": "7582",
+        "name": "Gordion",
+        "name_en": "Gordion",
+        "lat": 39.650103,
+        "lon": 31.97857,
+        "category": "archaeological_site",
+        "city": "ANKARA",
+        "district": "Polatlı"
+    },
+    {
+        "id": "7584",
+        "name": "Alacahöyük",
+        "name_en": "Alacahöyük",
+        "lat": 40.233895,
+        "lon": 34.695575,
+        "category": "archaeological_site",
+        "city": "ÇORUM",
+        "district": "Alaca"
+    },
+    {
+        "id": "7586",
+        "name": "Termessos",
+        "name_en": "Termessos",
+        "lat": 36.982469,
+        "lon": 30.464189,
+        "category": "archaeological_site",
+        "city": "ANTALYA",
+        "district": "Döşemealtı"
+    },
+    {
+        "id": "7595",
+        "name": "Arslantepe",
+        "name_en": "Arslantepe",
+        "lat": 38.38194444,
+        "lon": 38.36111111,
+        "category": "archaeological_site",
+        "city": "MALATYA",
+        "district": "Battalgazi"
+    },
+    {
+        "id": "7611",
+        "name": "Nemrut Dağı",
+        "name_en": "Mount Nemrut",
+        "lat": 38.62257,
+        "lon": 42.24668,
+        "category": "archaeological_site",
+        "city": "BITLIS",
+        "district": "Tatvan"
+    },
+    {
+        "id": "7622",
+        "name": "Ihlara",
+        "name_en": "Ihlara Valley",
+        "lat": 38.240833333,
+        "lon": 34.306111111,
+        "category": "archaeological_site",
+        "city": "AKSARAY",
+        "district": "Güzelyurt"
+    },
+    {
+        "id": "7627",
+        "name": "Sümela Manastırı",
+        "name_en": "Sumela Monastery",
+        "lat": 40.69,
+        "lon": 39.65833333,
+        "category": "archaeological_site",
+        "city": "TRABZON",
+        "district": "Maçka"
+    },
+    {
+        "id": "7642",
+        "name": "Karahantepe",
+        "name_en": "Karahan Tepe",
+        "lat": 37.0916,
+        "lon": 39.3027,
+        "category": "archaeological_site",
+        "city": "ŞANLIURFA",
+        "district": "Haliliye"
+    },
+    {
+        "id": "7691",
+        "name": "Kral Kaya Mezarları",
+        "name_en": "Pontic Rock Tombs",
+        "lat": 40.6536008,
+        "lon": 35.8304152,
+        "category": "archaeological_site",
+        "city": "AMASYA",
+        "district": "Amasya merkez"
+    },
+    {
+        "id": "7692",
+        "name": "Gaziantep Kalesi",
+        "name_en": "Gaziantep Castle",
+        "lat": 37.0664,
+        "lon": 37.3833,
+        "category": "archaeological_site",
+        "city": "GAZIANTEP",
+        "district": "Şahinbey"
+    },
+    {
+        "id": "7751",
+        "name": "Cendere Köprüsü",
+        "name_en": "Cendere Bridge",
+        "lat": 37.93292,
+        "lon": 38.60849,
+        "category": "archaeological_site",
+        "city": "ADIYAMAN",
+        "district": "Kahta"
+    },
+    {
+        "id": "7769",
+        "name": "Van Kalesi",
+        "name_en": "Van Castle",
+        "lat": 38.5025,
+        "lon": 43.34,
+        "category": "archaeological_site",
+        "city": "VAN",
+        "district": "İpekyolu"
+    },
+    {
+        "id": "7875",
+        "name": "Hierapolis",
+        "name_en": "Hierapolis",
+        "lat": 37.9074,
+        "lon": 29.146,
+        "category": "archaeological_site",
+        "city": "DENIZLI",
+        "district": "Pamukkale"
+    },
+    {
+        "id": "7942",
+        "name": "Ahlat Selçuklu Mezarlığı",
+        "name_en": "Ahlat Seljuk Cemetery",
+        "lat": 38.7425195,
+        "lon": 42.4577594,
+        "category": "archaeological_site",
+        "city": "BITLIS",
+        "district": "Ahlat"
+    },
+    {
+        "id": "8797",
+        "name": "Bodrum Kalesi",
+        "name_en": "Bodrum Castle",
+        "lat": 37.031666666,
+        "lon": 27.429444444,
+        "category": "castle",
+        "city": "MUĞLA",
+        "district": "Bodrum"
+    },
+    {
+        "id": "8813",
+        "name": "Bozcaada Kalesi",
+        "name_en": "Bozcaada Castle",
+        "lat": 39.83333333,
+        "lon": 26.06666667,
+        "category": "castle",
+        "city": "CANAKKALE",
+        "district": "Bozcaada"
+    },
+    {
+        "id": "9",
+        "name": "Selçuk Efes Müzesi",
+        "name_en": "Ephesus Archaeological Museum",
+        "lat": 37.9489945,
+        "lon": 27.3678537,
+        "category": "museum",
+        "city": "IZMIR",
+        "district": "Selçuk"
+    },
+    {
+        "id": "1",
+        "name": "Zelve Açık Hava Müzesi",
+        "name_en": "Zelve Open-Air Museum",
+        "lat": 38.668128,
+        "lon": 34.8647905,
+        "category": "museum",
+        "city": "NEVŞEHIR",
+        "district": "Avanos"
+    },
+    {
+        "id": "10000",
+        "name": "Şeyh Şaban-ı Veli Camii Şadırvanı",
+        "lat": 41.374666856,
+        "lon": 33.764431508,
+        "category": "monument",
+        "city": "KASTAMONU",
+        "district": "Kastamonu merkez"
+    },
+    {
+        "id": "10003",
+        "name": "Takyeciler Camii Şadırvanı",
+        "lat": 40.3160362,
+        "lon": 36.5460205,
+        "category": "monument",
+        "city": "TOKAT",
+        "district": "Tokat merkez"
+    },
+    {
+        "id": "10004",
+        "name": "Kara Mustafa Paşa Camii Şadırvanı",
+        "lat": 40.8728371,
+        "lon": 35.4641113,
+        "category": "monument",
+        "city": "AMASYA",
+        "district": "Merzifon"
+    },
+    {
+        "id": "10005",
+        "name": "II. Bayezid Camii Şadırvanı",
+        "lat": 40.6506157,
+        "lon": 35.8270035,
+        "category": "monument",
+        "city": "AMASYA",
+        "district": "Amasya merkez"
+    },
+    {
+        "id": "10006",
+        "name": "Darülhadis Camii Şadırvanı",
+        "lat": 41.6712723,
+        "lon": 26.5481987,
+        "category": "monument",
+        "city": "EDIRNE",
+        "district": "Edirne merkez"
+    },
+    {
+        "id": "10007",
+        "name": "II. Bayezid Camii Şadırvanı (Edirne)",
+        "lat": 41.685688,
+        "lon": 26.5443192,
+        "category": "monument",
+        "city": "EDIRNE",
+        "district": "Edirne merkez"
+    },
+    {
+        "id": "10008",
+        "name": "Güzelköy Cami Şadırvan Kalıntısı",
+        "lat": 40.7415771,
+        "lon": 27.2917404,
+        "category": "monument",
+        "city": "TEKIRDAĞ",
+        "district": "Şarköy"
+    },
+    {
+        "id": "10009",
+        "name": "Zağnos Paşa Camii Şadırvanı",
+        "lat": 39.6486168,
+        "lon": 27.8796806,
+        "category": "monument",
+        "city": "BALIKESIR",
+        "district": "Karesi"
+    },
+    {
+        "id": "10010",
+        "name": "Küçük Şadırvan (Balıkesir)",
+        "lat": 39.647924141,
+        "lon": 27.88123863,
+        "category": "monument",
+        "city": "BALIKESIR",
+        "district": "Karesi"
+    },
+    {
+        "id": "10011",
+        "name": "Aziziye Camii Şadırvanı (Konya)",
+        "lat": 37.8699417,
+        "lon": 32.5012932,
+        "category": "monument",
+        "city": "KONYA",
+        "district": "Karatay"
+    },
+    {
+        "id": "10012",
+        "name": "Kaymaklı Camii Şadırvanı",
+        "lat": 38.4599228,
+        "lon": 34.7541313,
+        "category": "monument",
+        "city": "NEVŞEHIR",
+        "district": "Nevşehir merkez"
+    },
+    {
+        "id": "10013",
+        "name": "Hacı Bayram-ı Veli Camii Şadırvanı",
+        "lat": 39.944169785,
+        "lon": 32.85772351,
+        "category": "monument",
+        "city": "ANKARA",
+        "district": "Altındağ"
+    },
+    {
+        "id": "10014",
+        "name": "Hamidiye Şadırvanı",
+        "lat": 39.7471352,
+        "lon": 39.4906502,
+        "category": "monument",
+        "city": "ERZINCAN",
+        "district": "Erzincan merkez"
+    },
+    {
+        "id": "10015",
+        "name": "Susurluk Çarşı Camii Şadırvanı",
+        "lat": 39.9148788,
+        "lon": 28.1571274,
+        "category": "monument",
+        "city": "BALIKESIR",
+        "district": "Susurluk"
+    },
+    {
+        "id": "10016",
+        "name": "Yeni Cami Şadırvanı (Bergama)",
+        "lat": 39.1195068,
+        "lon": 27.1789627,
+        "category": "monument",
+        "city": "IZMIR",
+        "district": "Bergama"
+    },
+    {
+        "id": "10017",
+        "name": "Ulu Camii Şadırvanı",
+        "lat": 39.1250534,
+        "lon": 27.1790924,
+        "category": "monument",
+        "city": "IZMIR",
+        "district": "Bergama"
+    },
+    {
+        "id": "10018",
+        "name": "Bigalı Köyü Camii Şadırvanı",
+        "lat": 40.2360573,
+        "lon": 26.3601055,
+        "category": "monument",
+        "city": "CANAKKALE",
+        "district": "Eceabat"
+    },
+    {
+        "id": "10020",
+        "name": "Kavak Meydan Şadırvanı",
+        "lat": 41.0047569,
+        "lon": 39.7085648,
+        "category": "monument",
+        "city": "TRABZON",
+        "district": "Ortahisar"
+    },
+    {
+        "id": "10021",
+        "name": "Hacı Turhan Kapan Camii Şadırvanı",
+        "lat": 38.32150699,
+        "lon": 26.768670189,
+        "category": "monument",
+        "city": "IZMIR",
+        "district": "Urla"
+    },
+    {
+        "id": "10022",
+        "name": "Bölümlü Mithat Paşa Camii Şadırvanı",
+        "lat": 40.8267937,
+        "lon": 40.2775536,
+        "category": "monument",
+        "city": "TRABZON",
+        "district": "Of"
+    },
+    {
+        "id": "10023",
+        "name": "Şadırvanaltı Meydan Şadırvanı",
+        "lat": 38.4213257,
+        "lon": 27.1350231,
+        "category": "monument",
+        "city": "IZMIR",
+        "district": "Konak"
+    },
+    {
+        "id": "10024",
+        "name": "Şadırvanaltı Camii Şadırvanı",
+        "lat": 38.4210129,
+        "lon": 27.134922,
+        "category": "monument",
+        "city": "IZMIR",
+        "district": "Konak"
+    },
+    {
+        "id": "10025",
+        "name": "Şadırvan (Sığacık)",
+        "lat": 38.1935806,
+        "lon": 26.7855949,
+        "category": "monument",
+        "city": "IZMIR",
+        "district": "Seferihisar"
+    },
+    {
+        "id": "10026",
+        "name": "Karaburunluzâde Şadırvanı",
+        "lat": 38.4199409,
+        "lon": 27.1345196,
+        "category": "monument",
+        "city": "IZMIR",
+        "district": "Konak"
+    },
+    {
+        "id": "10027",
+        "name": "Başoturak Şadırvanı",
+        "lat": 38.418705,
+        "lon": 27.133522,
+        "category": "monument",
+        "city": "IZMIR",
+        "district": "Konak"
+    },
+    {
+        "id": "10028",
+        "name": "Hisar Camii Şadırvanı 2",
+        "lat": 38.4217224,
+        "lon": 27.1334972,
+        "category": "monument",
+        "city": "IZMIR",
+        "district": "Konak"
+    },
+    {
+        "id": "10029",
+        "name": "Hisar Camii Şadırvanı 1",
+        "lat": 38.42173,
+        "lon": 27.1333656,
+        "category": "monument",
+        "city": "IZMIR",
+        "district": "Konak"
+    },
+    {
+        "id": "10030",
+        "name": "Tarihi Şadırvan",
+        "lat": 41.6321564,
+        "lon": 32.3378906,
+        "category": "monument",
+        "city": "BARTIN",
+        "district": "Bartın merkez"
+    },
+    {
+        "id": "10032",
+        "name": "Şadırvanlı Camii Şadırvanı",
+        "lat": 39.1224518,
+        "lon": 27.1779976,
+        "category": "monument",
+        "city": "IZMIR",
+        "district": "Bergama"
+    },
+    {
+        "id": "10033",
+        "name": "Cihanoğlu Camii Şadırvanı",
+        "lat": 37.8533783,
+        "lon": 27.8396187,
+        "category": "monument",
+        "city": "AYDIN",
+        "district": "Efeler"
+    },
+    {
+        "id": "10034",
+        "name": "Topçuoğlu Camii Şadırvanı",
+        "lat": 41.3788757,
+        "lon": 33.774292,
+        "category": "monument",
+        "city": "KASTAMONU",
+        "district": "Kastamonu merkez"
+    },
+    {
+        "id": "10035",
+        "name": "Osman Paşa Şadırvanı",
+        "lat": 40.985774,
+        "lon": 37.878547,
+        "category": "monument",
+        "city": "ORDU",
+        "district": "Altınordu"
+    },
+    {
+        "id": "10036",
+        "name": "Mevlana Külliyesi Şeb-i Aruz Havuzu",
+        "lat": 37.8705635,
+        "lon": 32.5045662,
+        "category": "monument",
+        "city": "KONYA",
+        "district": "Karatay"
+    },
+    {
+        "id": "10037",
+        "name": "Haydarpaşa Ayazması",
+        "lat": 40.999201815,
+        "lon": 29.022979554,
+        "category": "monument",
+        "city": "ISTANBUL",
+        "district": "Kadıköy"
+    },
+    {
+        "id": "10040",
+        "name": "Fevziye Küçük Efendi Camii Ayazması",
+        "lat": 41.000384487,
+        "lon": 28.924528539,
+        "category": "monument",
+        "city": "ISTANBUL",
+        "district": "Fatih"
+    },
+    {
+        "id": "10041",
+        "name": "Ayios Ioanis Prodromos Ayazması, Samatya",
+        "lat": 41.0020218,
+        "lon": 28.9330692,
+        "category": "monument",
+        "city": "ISTANBUL",
+        "district": "Fatih"
+    },
+    {
+        "id": "10042",
+        "name": "Ayios Minas Ayazması, Kumkapı",
+        "lat": 41.0005608,
+        "lon": 28.9320869,
+        "category": "monument",
+        "city": "ISTANBUL",
+        "district": "Fatih"
+    },
+    {
+        "id": "10043",
+        "name": "Ayios Ioanis Ayazması, Samatya",
+        "lat": 41.0007515,
+        "lon": 28.9334278,
+        "category": "monument",
+        "city": "ISTANBUL",
+        "district": "Fatih"
+    },
+    {
+        "id": "10045",
+        "name": "Ayios Yeoryios Ayazması, Kumkapı",
+        "lat": 41.0046654,
+        "lon": 28.9634018,
+        "category": "monument",
+        "city": "ISTANBUL",
+        "district": "Fatih"
+    },
+    {
+        "id": "10046",
+        "name": "Ayios Ioanis Prodromos Ayazması, Fener",
+        "lat": 41.0281792,
+        "lon": 28.952364,
+        "category": "monument",
+        "city": "ISTANBUL",
+        "district": "Fatih"
+    },
+    {
+        "id": "10047",
+        "name": "Ayia Anna Ayazması, Fener",
+        "lat": 41.0296402,
+        "lon": 28.9488125,
+        "category": "monument",
+        "city": "ISTANBUL",
+        "district": "Fatih"
+    },
+    {
+        "id": "10048",
+        "name": "Ayios Minas Ayazması, Fener",
+        "lat": 41.030674,
+        "lon": 28.9494591,
+        "category": "monument",
+        "city": "ISTANBUL",
+        "district": "Fatih"
+    },
+    {
+        "id": "10049",
+        "name": "Ayia Zoni Ayazması, Eğrikapı",
+        "lat": 41.0366287,
+        "lon": 28.9399529,
+        "category": "monument",
+        "city": "ISTANBUL",
+        "district": "Fatih"
+    },
+    {
+        "id": "10050",
+        "name": "Ayia Paraskevi Ayazması, Besiktaş",
+        "lat": 41.0427475,
+        "lon": 29.00947,
+        "category": "monument",
+        "city": "ISTANBUL",
+        "district": "Beşiktaş"
+    },
+    {
+        "id": "10051",
+        "name": "Ayios Dimitrios Ayazması, Kuruçeşme",
+        "lat": 41.0611725,
+        "lon": 29.0351639,
+        "category": "monument",
+        "city": "ISTANBUL",
+        "district": "Beşiktaş"
+    },
+    {
+        "id": "10052",
+        "name": "Ayios Ioanis Ayazması, Arnavutköy",
+        "lat": 41.0632019,
+        "lon": 29.0402107,
+        "category": "monument",
+        "city": "ISTANBUL",
+        "district": "Beşiktaş"
+    },
+    {
+        "id": "10053",
+        "name": "Ayios Ioanis Prodromos Ayazması, Salma Tomruk",
+        "lat": 41.0300789,
+        "lon": 28.9394608,
+        "category": "monument",
+        "city": "ISTANBUL",
+        "district": "Fatih"
+    },
+    {
+        "id": "10054",
+        "name": "Ayios Nikolas Ayazması, Balat",
+        "lat": 41.0319214,
+        "lon": 28.9450607,
+        "category": "monument",
+        "city": "ISTANBUL",
+        "district": "Fatih"
+    },
+    {
+        "id": "10055",
+        "name": "Ayios Minas Ayazması, Ayvansaray",
+        "lat": 41.035759,
+        "lon": 28.945303,
+        "category": "monument",
+        "city": "ISTANBUL",
+        "district": "Fatih"
+    },
+    {
+        "id": "10056",
+        "name": "Ayios Ioanis Prodromos Ayazması, Çarşamba",
+        "lat": 41.0291176,
+        "lon": 28.946291,
+        "category": "monument",
+        "city": "ISTANBUL",
+        "district": "Fatih"
+    },
+    {
+        "id": "10057",
+        "name": "Ayios Yeorgios Andiphoniti Ayazması, Balat",
+        "lat": 41.0282288,
+        "lon": 28.9471798,
+        "category": "monument",
+        "city": "ISTANBUL",
+        "district": "Fatih"
+    },
+    {
+        "id": "10059",
+        "name": "Bakhos Ayazması",
+        "lat": 41.002724732,
+        "lon": 28.972038909,
+        "category": "monument",
+        "city": "ISTANBUL",
+        "district": "Fatih"
+    },
+    {
+        "id": "10061",
+        "name": "Studios Manastırı Ayazması, Yedikule",
+        "lat": 40.9958076,
+        "lon": 28.928915,
+        "category": "monument",
+        "city": "ISTANBUL",
+        "district": "Fatih"
+    },
+    {
+        "id": "10062",
+        "name": "Ayios Nikolaos Ayazması, Topkapı",
+        "lat": 41.0223083,
+        "lon": 28.9274597,
+        "category": "monument",
+        "city": "ISTANBUL",
+        "district": "Fatih"
+    },
+    {
+        "id": "10066",
+        "name": "Ayios Atanasios Ayazması, Kurtuluş",
+        "lat": 41.0455894,
+        "lon": 28.9749584,
+        "category": "monument",
+        "city": "ISTANBUL",
+        "district": "Beyoğlu"
+    },
+    {
+        "id": "10067",
+        "name": "Ayios Onofrios Ayazması, Arnavutköy",
+        "lat": 41.0667839,
+        "lon": 29.0394402,
+        "category": "monument",
+        "city": "ISTANBUL",
+        "district": "Beşiktaş"
+    },
+    {
+        "id": "10068",
+        "name": "Ayii Apostoli Ayazması, Bebek",
+        "lat": 41.0777817,
+        "lon": 29.0409603,
+        "category": "monument",
+        "city": "ISTANBUL",
+        "district": "Beşiktaş"
+    },
+    {
+        "id": "10069",
+        "name": "Tarabya Ayia Paraskevi Ayazması",
+        "lat": 41.1366997,
+        "lon": 29.0566998,
+        "category": "monument",
+        "city": "ISTANBUL",
+        "district": "Sarıyer"
+    },
+    {
+        "id": "1007",
+        "name": "Güney Şelalesi",
+        "name_en": "Güney Waterfall",
+        "lat": 38.1196341,
+        "lon": 29.0610289,
+        "category": "other",
+        "city": "DENIZLI",
+        "district": "Güney"
+    },
+    {
+        "id": "10070",
+        "name": "Ayios Ioanis Ayazması, Paşabahçe",
+        "lat": 41.1170197,
+        "lon": 29.0966892,
+        "category": "monument",
+        "city": "ISTANBUL",
+        "district": "Beykoz"
+    },
+    {
+        "id": "10071",
+        "name": "Ayios Haralambos Ayazması, Yeniköy",
+        "lat": 41.1250305,
+        "lon": 29.0619202,
+        "category": "monument",
+        "city": "ISTANBUL",
+        "district": "Sarıyer"
+    },
+    {
+        "id": "10072",
+        "name": "Ayia Paraskevi Ayazması, Yeniköy",
+        "lat": 41.1225395,
+        "lon": 29.0637646,
+        "category": "monument",
+        "city": "ISTANBUL",
+        "district": "Sarıyer"
+    },
+    {
+        "id": "10073",
+        "name": "Ayia Paraskevi Ayazması, Fener",
+        "lat": 41.029789,
+        "lon": 28.9503098,
+        "category": "monument",
+        "city": "ISTANBUL",
+        "district": "Fatih"
+    },
+    {
+        "id": "10074",
+        "name": "Meryem Ana (Panagia) Ayazması, Vefa",
+        "lat": 41.018074,
+        "lon": 28.9589195,
+        "category": "monument",
+        "city": "ISTANBUL",
+        "district": "Fatih"
+    },
+    {
+        "id": "10076",
+        "name": "Ayios Konstantinos Ayazması, Büyükada",
+        "lat": 40.8614197,
+        "lon": 29.1130104,
+        "category": "monument",
+        "city": "ISTANBUL",
+        "district": "Prince Islands"
+    },
+    {
+        "id": "10077",
+        "name": "Ayazma Kalıntısı, Üsküdar",
+        "lat": 41.0227089,
+        "lon": 29.0093307,
+        "category": "monument",
+        "city": "ISTANBUL",
+        "district": "Üsküdar"
+    },
+    {
+        "id": "10078",
+        "name": "Ayia Paraskevi Ayazması, Heybeliada",
+        "lat": 40.8776016,
+        "lon": 29.0991402,
+        "category": "monument",
+        "city": "ISTANBUL",
+        "district": "Prince Islands"
+    },
+    {
+        "id": "10079",
+        "name": "Ayios Yeoryios Ayazması, Büyükada",
+        "lat": 40.8486137,
+        "lon": 29.1186543,
+        "category": "monument",
+        "city": "ISTANBUL",
+        "district": "Prince Islands"
+    },
+    {
+        "id": "10081",
+        "name": "Ayios Nikitas Ayazması",
+        "lat": 41.0371132,
+        "lon": 28.9401588,
+        "category": "monument",
+        "city": "ISTANBUL",
+        "district": "Fatih"
+    },
+    {
+        "id": "10083",
+        "name": "Aya İoannis Ayazması",
+        "lat": 41.1380463,
+        "lon": 29.0509319,
+        "category": "monument",
+        "city": "ISTANBUL",
+        "district": "Sarıyer"
+    },
+    {
+        "id": "10084",
+        "name": "Aya Kiriaki Ayazması",
+        "lat": 41.1342709,
+        "lon": 29.0447214,
+        "category": "monument",
+        "city": "ISTANBUL",
+        "district": "Sarıyer"
+    },
+    {
+        "id": "10085",
+        "name": "Aya Marini Ayazması, Tarabya",
+        "lat": 41.1386223,
+        "lon": 29.05126,
+        "category": "monument",
+        "city": "ISTANBUL",
+        "district": "Sarıyer"
+    },
+    {
+        "id": "10088",
+        "name": "Aziz Paraskevi Ayazması, Heybeliada",
+        "lat": 40.877419226,
+        "lon": 29.099649924,
+        "category": "monument",
+        "city": "ISTANBUL",
+        "district": "Prince Islands"
+    },
+    {
+        "id": "10089",
+        "name": "Aya Triada Manastırı Ayazması, Heybeliada",
+        "lat": 40.8820114,
+        "lon": 29.0950146,
+        "category": "monument",
+        "city": "ISTANBUL",
+        "district": "Prince Islands"
+    },
+    {
+        "id": "10090",
+        "name": "Ayia Haralambos Ayazması, Ayakapı",
+        "lat": 41.0275078,
+        "lon": 28.9568405,
+        "category": "monument",
+        "city": "ISTANBUL",
+        "district": "Fatih"
+    },
+    {
+        "id": "10091",
+        "name": "Ayia Paraskevi Kilisesi Ayazması, Hasköy",
+        "lat": 41.0409698,
+        "lon": 28.9512253,
+        "category": "monument",
+        "city": "ISTANBUL",
+        "district": "Beyoğlu"
+    },
+    {
+        "id": "10092",
+        "name": "Göksu Meryem Ana Ayazması",
+        "lat": 41.0790596,
+        "lon": 29.0794582,
+        "category": "monument",
+        "city": "ISTANBUL",
+        "district": "Beykoz"
+    },
+    {
+        "id": "10096",
+        "name": "Bebek Rum Ortodoks Mezarlığı Aya Yani Şapeli ve Ayazması",
+        "lat": 41.0781517,
+        "lon": 29.0355988,
+        "category": "monument",
+        "city": "ISTANBUL",
+        "district": "Beşiktaş"
+    },
+    {
+        "id": "10098",
+        "name": "Ayios İonais Ayazması, Burgazada",
+        "lat": 40.881075616,
+        "lon": 29.068645472,
+        "category": "monument",
+        "city": "ISTANBUL",
+        "district": "Prince Islands"
+    },
+    {
+        "id": "10099",
+        "name": "Balıklı Meryem Ana Ayazması",
+        "lat": 41.0066566,
+        "lon": 28.9157257,
+        "category": "monument",
+        "city": "ISTANBUL",
+        "district": "Zeytinburnu"
+    },
+    {
+        "id": "101",
+        "name": "II. Bayezid Türk Hamam Kültürü Müzesi",
+        "name_en": "II. Bayezid Turkish Bath Culture Museum",
+        "lat": 41.0099458,
+        "lon": 28.9615545,
+        "category": "museum",
+        "city": "ISTANBUL",
+        "district": "Fatih"
+    },
+    {
+        "id": "10100",
+        "name": "Panayia Belgradu Kilisesi Ayazması",
+        "lat": 41.0000496,
+        "lon": 28.9220886,
+        "category": "monument",
+        "city": "ISTANBUL",
+        "district": "Fatih"
+    },
+    {
+        "id": "10101",
+        "name": "Yeniköy Panayia Ayazması",
+        "lat": 41.1174126,
+        "lon": 29.0619431,
+        "category": "monument",
+        "city": "ISTANBUL",
+        "district": "Sarıyer"
+    },
+    {
+        "id": "10102",
+        "name": "Çıksalın Ayazması, Hasköy",
+        "lat": 41.048275,
+        "lon": 28.9525661,
+        "category": "monument",
+        "city": "ISTANBUL",
+        "district": "Beyoğlu"
+    },
+    {
+        "id": "10103",
+        "name": "Aya Kiryaki Ayazması",
+        "lat": 41.1156349,
+        "lon": 29.0956478,
+        "category": "monument",
+        "city": "ISTANBUL",
+        "district": "Beykoz"
+    },
+    {
+        "id": "10104",
+        "name": "Profiti İlya Kilisesi Ayazması",
+        "lat": 41.0211639,
+        "lon": 29.0326424,
+        "category": "monument",
+        "city": "ISTANBUL",
+        "district": "Üsküdar"
+    },
+    {
+        "id": "10105",
+        "name": "Harem İskelesi Ayazması",
+        "lat": 41.009063226,
+        "lon": 29.012681714,
+        "category": "monument",
+        "city": "ISTANBUL",
+        "district": "Üsküdar"
+    },
+    {
+        "id": "10106",
+        "name": "Aya Yorgi Ayazması, Burgazada",
+        "lat": 40.88451,
+        "lon": 29.0638905,
+        "category": "monument",
+        "city": "ISTANBUL",
+        "district": "Prince Islands"
+    },
+    {
+        "id": "10107",
+        "name": "Ayios İonis Ayazması",
+        "lat": 41.0333443,
+        "lon": 29.0251961,
+        "category": "monument",
+        "city": "ISTANBUL",
+        "district": "Üsküdar"
+    },
+    {
+        "id": "10109",
+        "name": "Aya Ekaterini Ayazması, Bahariye",
+        "lat": 40.9861069,
+        "lon": 29.027483,
+        "category": "monument",
+        "city": "ISTANBUL",
+        "district": "Kadıköy"
+    },
+    {
+        "id": "10110",
+        "name": "Ayios Ioannis Hrisostomos Ayazması",
+        "lat": 40.9765282,
+        "lon": 29.041441,
+        "category": "monument",
+        "city": "ISTANBUL",
+        "district": "Kadıköy"
+    },
+    {
+        "id": "10111",
+        "name": "Ayia Paraskevi Ayazması",
+        "lat": 40.9906845,
+        "lon": 29.0249882,
+        "category": "monument",
+        "city": "ISTANBUL",
+        "district": "Kadıköy"
+    },
+    {
+        "id": "10112",
+        "name": "Surp Hreşdagabet Kilisesi Ayazması",
+        "lat": 41.0339165,
+        "lon": 28.9456825,
+        "category": "monument",
+        "city": "ISTANBUL",
+        "district": "Fatih"
+    },
+    {
+        "id": "10113",
+        "name": "Merkez Efendi Ayazması",
+        "lat": 41.0159874,
+        "lon": 28.9203014,
+        "category": "monument",
+        "city": "ISTANBUL",
+        "district": "Zeytinburnu"
+    },
+    {
+        "id": "10114",
+        "name": "Aya Ekaterini Ayazması, Moda",
+        "lat": 40.979969,
+        "lon": 29.0247555,
+        "category": "monument",
+        "city": "ISTANBUL",
+        "district": "Kadıköy"
+    },
+    {
+        "id": "10115",
+        "name": "Ayios Panteleimon Rum Ortodoks Kilisesi Ayazması",
+        "lat": 41.034596784,
+        "lon": 29.030682655,
+        "category": "monument",
+        "city": "ISTANBUL",
+        "district": "Üsküdar"
+    },
+    {
+        "id": "10118",
+        "name": "Ayazma, Küçükçekmece",
+        "lat": 40.990840912,
+        "lon": 28.770115291,
+        "category": "monument",
+        "city": "ISTANBUL",
+        "district": "Küçükçekmece"
+    },
+    {
+        "id": "10119",
+        "name": "Ayazmalı Mescit, Tire",
+        "lat": 38.0810699,
+        "lon": 27.7392654,
+        "category": "monument",
+        "city": "IZMIR",
+        "district": "Tire"
+    },
+    {
+        "id": "1012",
+        "name": "Aziz Argelana Kilisesi",
+        "name_en": "Saint Argelana Church",
+        "lat": 39.0017768,
+        "lon": 43.738431,
+        "category": "church",
+        "city": "VAN",
+        "district": "Muradiye"
+    },
+    {
+        "id": "10120",
+        "name": "Çanakçı Kaya Mezarları",
+        "lat": 36.523299759,
+        "lon": 34.174117205,
+        "category": "monument",
+        "city": "MERSIN",
+        "district": "Erdemli"
+    },
+    {
+        "id": "10124",
+        "name": "Ballıkaya Kaya Mezarları ve Cebrail Freski",
+        "lat": 37.8789444,
+        "lon": 27.7431507,
+        "category": "monument",
+        "city": "AYDIN",
+        "district": "İncirliova"
+    },
+    {
+        "id": "10126",
+        "name": "Daedala Kaya Mezarı",
+        "lat": 36.7437935,
+        "lon": 28.9640522,
+        "category": "monument",
+        "city": "MUĞLA",
+        "district": "Fethiye"
+    },
+    {
+        "id": "10128",
+        "name": "Telmessos Kaya Mezarları 1",
+        "lat": 36.61903,
+        "lon": 29.1184025,
+        "category": "monument",
+        "city": "MUĞLA",
+        "district": "Fethiye"
+    },
+    {
+        "id": "10129",
+        "name": "Telmessos Kaya Mezarları 2",
+        "lat": 36.6179504,
+        "lon": 29.1134014,
+        "category": "monument",
+        "city": "MUĞLA",
+        "district": "Fethiye"
+    },
+    {
+        "id": "10131",
+        "name": "Idyma Kaya Mezarları",
+        "lat": 37.0520248,
+        "lon": 28.3532658,
+        "category": "monument",
+        "city": "MUĞLA",
+        "district": "Ula"
+    },
+    {
+        "id": "10132",
+        "name": "Ev Kaya Mezarları, Kastamonu",
+        "lat": 41.3699722,
+        "lon": 33.7698174,
+        "category": "monument",
+        "city": "KASTAMONU",
+        "district": "Kastamonu merkez"
+    },
+    {
+        "id": "10134",
+        "name": "Panormus Kaya Mezarları",
+        "lat": 37.1273842,
+        "lon": 27.2813206,
+        "category": "monument",
+        "city": "MUĞLA",
+        "district": "Bodrum"
+    },
+    {
+        "id": "10142",
+        "name": "Akçakale Kaya Mezarı",
+        "lat": 39.1633415,
+        "lon": 37.7798157,
+        "category": "monument",
+        "city": "SIVAS",
+        "district": "Kangal"
+    },
+    {
+        "id": "10146",
+        "name": "Salar Kaya Mezarı",
+        "lat": 41.5327339,
+        "lon": 34.6857681,
+        "category": "monument",
+        "city": "SINOP",
+        "district": "Boyabat"
+    },
+    {
+        "id": "10148",
+        "name": "İskilip Kaya Mezarları",
+        "lat": 40.7344704,
+        "lon": 34.4739494,
+        "category": "monument",
+        "city": "ÇORUM",
+        "district": "İskilip"
+    },
+    {
+        "id": "10149",
+        "name": "Güvercinlik Köyü Kaya Mezarı 1, Havza",
+        "lat": 41.037901,
+        "lon": 35.825734,
+        "category": "monument",
+        "city": "SAMSUN",
+        "district": "Havza"
+    },
+    {
+        "id": "10152",
+        "name": "Yeşilköy Kaya Mezarları Salıpazarı",
+        "lat": 41.064626,
+        "lon": 36.853417,
+        "category": "monument",
+        "city": "SAMSUN",
+        "district": "Salıpazarı"
+    },
+    {
+        "id": "10155",
+        "name": "Kaya Mezarı 10 (Tikenlice Mahallesi) Gürgentepe",
+        "lat": 40.776412,
+        "lon": 37.664261,
+        "category": "monument",
+        "city": "ORDU",
+        "district": "Gürgentepe"
+    },
+    {
+        "id": "10158",
+        "name": "Kaya Mezarı 4 (Tikenlice Mahallesi) Gürgentepe",
+        "lat": 40.776416,
+        "lon": 37.664051,
+        "category": "monument",
+        "city": "ORDU",
+        "district": "Gürgentepe"
+    },
+    {
+        "id": "10159",
+        "name": "Kaya Mezarı 5 (Tikenlice Mahallesi) Gürgentepe",
+        "lat": 40.776399,
+        "lon": 37.664022,
+        "category": "monument",
+        "city": "ORDU",
+        "district": "Gürgentepe"
+    },
+    {
+        "id": "10160",
+        "name": "Kaya Mezarı 6 (Tikenlice Mahallesi) Gürgentepe",
+        "lat": 40.776388,
+        "lon": 37.664177,
+        "category": "monument",
+        "city": "ORDU",
+        "district": "Gürgentepe"
+    },
+    {
+        "id": "10161",
+        "name": "Kaya Mezarı 7 (Tikenlice Mahallesi) Gürgentepe",
+        "lat": 40.776394,
+        "lon": 37.664219,
+        "category": "monument",
+        "city": "ORDU",
+        "district": "Gürgentepe"
+    },
+    {
+        "id": "10162",
+        "name": "Kaya Mezarı 8 (Tikenlice Mahallesi) Gürgentepe",
+        "lat": 40.776393,
+        "lon": 37.664227,
+        "category": "monument",
+        "city": "ORDU",
+        "district": "Gürgentepe"
+    },
+    {
+        "id": "10164",
+        "name": "Kaya Mezarı 9 (Tikenlice Mahallesi) Gürgentepe",
+        "lat": 40.776403,
+        "lon": 37.664245,
+        "category": "monument",
+        "city": "ORDU",
+        "district": "Gürgentepe"
+    },
+    {
+        "id": "10165",
+        "name": "Kaya Mezarı 2 (Delikkaya Mahallesi), Altınordu",
+        "lat": 40.902316,
+        "lon": 37.848187,
+        "category": "monument",
+        "city": "ORDU",
+        "district": "Altınordu"
+    },
+    {
+        "id": "10168",
+        "name": "Kaya Mezarı 3 (Delikkaya Mahallesi), Altınordu",
+        "lat": 40.901166,
+        "lon": 37.848975,
+        "category": "monument",
+        "city": "ORDU",
+        "district": "Altınordu"
+    },
+    {
+        "id": "10170",
+        "name": "Kaya Mezarı 4 (Delikkaya Mahallesi), Altınordu",
+        "lat": 40.898656,
+        "lon": 37.847111,
+        "category": "monument",
+        "city": "ORDU",
+        "district": "Altınordu"
+    },
+    {
+        "id": "10171",
+        "name": "Kaya Mezarı 5 (Delikkaya Mahallesi), Altınordu",
+        "lat": 40.899613,
+        "lon": 37.846912,
+        "category": "monument",
+        "city": "ORDU",
+        "district": "Altınordu"
+    },
+    {
+        "id": "10173",
+        "name": "Kaya Mezarı 1 (Delikkaya Mahallesi), Altınordu",
+        "lat": 40.899988,
+        "lon": 37.847003,
+        "category": "monument",
+        "city": "ORDU",
+        "district": "Altınordu"
+    },
+    {
+        "id": "10175",
+        "name": "Eğil Kaya Mezarları",
+        "lat": 38.2573853,
+        "lon": 40.0966415,
+        "category": "monument",
+        "city": "DIYARBAKIR",
+        "district": "Eğil"
+    },
+    {
+        "id": "10176",
+        "name": "Kaunos Kaya Mezarları",
+        "lat": 36.8335838,
+        "lon": 28.6341858,
+        "category": "monument",
+        "city": "MUĞLA",
+        "district": "Köyceğiz"
+    },
+    {
+        "id": "10177",
+        "name": "Asarkale Kaya Mezarı -3",
+        "lat": 41.3733978,
+        "lon": 35.7651863,
+        "category": "monument",
+        "city": "SAMSUN",
+        "district": "Bafra"
+    },
+    {
+        "id": "10178",
+        "name": "Asarkale Kaya Mezarı -2",
+        "lat": 41.3736305,
+        "lon": 35.7647591,
+        "category": "monument",
+        "city": "SAMSUN",
+        "district": "Bafra"
+    },
+    {
+        "id": "10183",
+        "name": "Kaya Mezarı 1 (Kastamonu)",
+        "lat": 41.372787432,
+        "lon": 33.770411802,
+        "category": "monument",
+        "city": "KASTAMONU",
+        "district": "Kastamonu merkez"
+    },
+    {
+        "id": "10187",
+        "name": "Terelek Kaya Mezarı",
+        "lat": 41.358401985,
+        "lon": 35.140440702,
+        "category": "monument",
+        "city": "SINOP",
+        "district": "Durağan"
+    },
+    {
+        "id": "10194",
+        "name": "Basıkkaya Kaya Mezarı",
+        "lat": 39.062339097,
+        "lon": 38.908787883,
+        "category": "monument",
+        "city": "TUNCELI",
+        "district": "Çemişgezek"
+    },
+    {
+        "id": "102",
+        "name": "Türk ve İslam Eserleri Müzesi",
+        "name_en": "Turkish and Islamic Arts Museum",
+        "lat": 41.0062801,
+        "lon": 28.974915,
+        "category": "museum",
+        "city": "ISTANBUL",
+        "district": "Fatih"
+    },
+    {
+        "id": "10201",
+        "name": "Arcosoliumlu Kaya Mezarı (Gercüş)",
+        "lat": 37.563053325,
+        "lon": 41.382816436,
+        "category": "monument",
+        "city": "BATMAN",
+        "district": "Gercüş"
+    },
+    {
+        "id": "10212",
+        "name": "Dendil Kaya Nişi",
+        "lat": 39.295308064,
+        "lon": 35.994491398,
+        "category": "monument",
+        "city": "SIVAS",
+        "district": "Gemerek"
+    },
+    {
+        "id": "10213",
+        "name": "Topal Gavur Kaya Mezarı",
+        "lat": 36.3901314,
+        "lon": 30.426098091,
+        "category": "monument",
+        "city": "ANTALYA",
+        "district": "Kumluca"
+    },
+    {
+        "id": "10216",
+        "name": "Hoyran Kaya Mezarları",
+        "lat": 38.222014846,
+        "lon": 30.873623841,
+        "category": "monument",
+        "city": "ISPARTA",
+        "district": "Yalvaç"
+    },
+    {
+        "id": "1022",
+        "name": "Karakuş Tümülüsü",
+        "name_en": "Karakus Tumulus",
+        "lat": 37.8680842,
+        "lon": 38.5873397,
+        "category": "other",
+        "city": "ADIYAMAN",
+        "district": "Kahta"
+    },
+    {
+        "id": "10220",
+        "name": "Aktoprak Kaya Mezarları",
+        "lat": 41.571247228,
+        "lon": 27.774566486,
+        "category": "monument",
+        "city": "KIRKLARELI",
+        "district": "Vize"
+    },
+    {
+        "id": "10221",
+        "name": "Antiphellos Kaya Mezarı",
+        "lat": 36.20249335,
+        "lon": 29.635678647,
+        "category": "monument",
+        "city": "ANTALYA",
+        "district": "Kaş"
+    },
+    {
+        "id": "10224",
+        "name": "Armutlu Kaya Mezarı",
+        "lat": 36.579802073,
+        "lon": 29.774477435,
+        "category": "monument",
+        "city": "ANTALYA",
+        "district": "Elmalı"
+    },
+    {
+        "id": "10226",
+        "name": "Tyberissos Kaya Mezarı",
+        "lat": 36.22160139,
+        "lon": 29.855258371,
+        "category": "monument",
+        "city": "ANTALYA",
+        "district": "Demre"
+    },
+    {
+        "id": "10227",
+        "name": "Kapılıkaya Kaya Mezarı",
+        "lat": 40.107492458,
+        "lon": 34.798320565,
+        "category": "monument",
+        "city": "ÇORUM",
+        "district": "Alaca"
+    },
+    {
+        "id": "10233",
+        "name": "Bağpınar Kaya Mezarı",
+        "lat": 40.711277,
+        "lon": 36.6741943,
+        "category": "monument",
+        "city": "TOKAT",
+        "district": "Erbaa"
+    },
+    {
+        "id": "10239",
+        "name": "Beşkardeşler Kaya Mezarları",
+        "lat": 36.558101159,
+        "lon": 36.385017984,
+        "category": "monument",
+        "city": "HATAY",
+        "district": "Kırıkhan"
+    },
+    {
+        "id": "10240",
+        "name": "Asartaş Kaya Mezarı",
+        "lat": 36.3889313,
+        "lon": 30.4245853,
+        "category": "monument",
+        "city": "ANTALYA",
+        "district": "Kumluca"
+    },
+    {
+        "id": "10243",
+        "name": "Ambarkaya Kaya Mezarı (Pınarhisar)",
+        "lat": 41.6342583,
+        "lon": 27.5208664,
+        "category": "monument",
+        "city": "KIRKLARELI",
+        "district": "Pınarhisar"
+    },
+    {
+        "id": "10247",
+        "name": "Kaya Mezarı (Vize)",
+        "lat": 41.5762863,
+        "lon": 27.7731476,
+        "category": "monument",
+        "city": "KIRKLARELI",
+        "district": "Vize"
+    },
+    {
+        "id": "10249",
+        "name": "Erenler Tavşanhisar Kaya Mezarları",
+        "lat": 41.6297493,
+        "lon": 27.5666313,
+        "category": "monument",
+        "city": "KIRKLARELI",
+        "district": "Pınarhisar"
+    },
+    {
+        "id": "10252",
+        "name": "Asmakaya Kaya Mezarları",
+        "lat": 41.5891037,
+        "lon": 27.7773228,
+        "category": "monument",
+        "city": "KIRKLARELI",
+        "district": "Vize"
+    },
+    {
+        "id": "10254",
+        "name": "Deliktaş Kaya Mezarı",
+        "lat": 39.6040535,
+        "lon": 29.3815098,
+        "category": "monument",
+        "city": "KÜTAHYA",
+        "district": "Tavşanlı"
+    },
+    {
+        "id": "10255",
+        "name": "Tlos Kaya Mezarları",
+        "lat": 36.5549126,
+        "lon": 29.4195499,
+        "category": "monument",
+        "city": "MUĞLA",
+        "district": "Seydikemer"
+    },
+    {
+        "id": "10256",
+        "name": "Pınara Kaya Mezarları",
+        "lat": 36.4862099,
+        "lon": 29.2578716,
+        "category": "monument",
+        "city": "MUĞLA",
+        "district": "Seydikemer"
+    },
+    {
+        "id": "1026",
+        "name": "Yeralti Sehir-1",
+        "lat": 38.275531,
+        "lon": 34.3738233,
+        "category": "other",
+        "city": "AKSARAY",
+        "district": "Güzelyurt"
+    },
+    {
+        "id": "10261",
+        "name": "İndağı Kaya Mezarları",
+        "lat": 40.896492,
+        "lon": 33.6523361,
+        "category": "monument",
+        "city": "ÇANKIRI",
+        "district": "Ilgaz"
+    },
+    {
+        "id": "10267",
+        "name": "Bağköy Osman Uşağı Dumdum Kaya Mezar Odası",
+        "lat": 38.4650764,
+        "lon": 37.9012756,
+        "category": "monument",
+        "city": "MALATYA",
+        "district": "Akçadağ"
+    },
+    {
+        "id": "10275",
+        "name": "Çataklı Kaya Mezarı",
+        "lat": 38.3987999,
+        "lon": 39.8497009,
+        "category": "monument",
+        "city": "ELAZIĞ",
+        "district": "Alacakaya"
+    },
+    {
+        "id": "10277",
+        "name": "Kaya Mezarları ve Arkeolojik Yerleşim Alanı (Midyat)",
+        "lat": 37.4090118,
+        "lon": 41.3851013,
+        "category": "monument",
+        "city": "MARDIN",
+        "district": "Midyat"
+    },
+    {
+        "id": "1028",
+        "name": "Trabzon Akvaryum",
+        "name_en": "Trabzon Aquarium",
+        "lat": 41.0005666,
+        "lon": 39.7176983,
+        "category": "other",
+        "city": "TRABZON",
+        "district": "Ortahisar"
+    },
+    {
+        "id": "10280",
+        "name": "Trebenna Kaya Mezarları",
+        "lat": 36.8660851,
+        "lon": 30.4766197,
+        "category": "monument",
+        "city": "ANTALYA",
+        "district": "Konyaaltı"
+    },
+    {
+        "id": "10281",
+        "name": "Hilar Mağaraları",
+        "lat": 38.2139778,
+        "lon": 39.7286339,
+        "category": "monument",
+        "city": "DIYARBAKIR",
+        "district": "Ergani"
+    },
+    {
+        "id": "10282",
+        "name": "Çukurhisar Kaya Mezarları",
+        "lat": 37.8207169,
+        "lon": 36.5616264,
+        "category": "monument",
+        "city": "KAHRAMANMARAŞ",
+        "district": "Onikişubat"
+    },
+    {
+        "id": "10284",
+        "name": "Antiphellos Kaya Mezarları",
+        "lat": 36.2015686,
+        "lon": 29.6423054,
+        "category": "monument",
+        "city": "ANTALYA",
+        "district": "Kaş"
+    },
+    {
+        "id": "10285",
+        "name": "Dor Kaya Mezarı",
+        "lat": 36.2011719,
+        "lon": 29.6366138,
+        "category": "monument",
+        "city": "ANTALYA",
+        "district": "Kaş"
+    },
+    {
+        "id": "10286",
+        "name": "Sebeda Kaya Mezarı",
+        "lat": 36.1737747,
+        "lon": 29.6513615,
+        "category": "monument",
+        "city": "ANTALYA",
+        "district": "Kaş"
+    },
+    {
+        "id": "10288",
+        "name": "Bayıralan Kaya Mezarları",
+        "lat": 37.9756622,
+        "lon": 29.3717346,
+        "category": "monument",
+        "city": "DENIZLI",
+        "district": "Çal"
+    },
+    {
+        "id": "10289",
+        "name": "Beşikli Mağara",
+        "lat": 36.1203728,
+        "lon": 35.928463,
+        "category": "monument",
+        "city": "HATAY",
+        "district": "Samandağ"
+    },
+    {
+        "id": "10290",
+        "name": "Solon’un Mezarı",
+        "lat": 39.2112732,
+        "lon": 30.6075058,
+        "category": "monument",
+        "city": "ESKIŞEHIR",
+        "district": "Seyitgazi"
+    },
+    {
+        "id": "10291",
+        "name": "Karia Mezarı",
+        "lat": 37.0393448,
+        "lon": 27.4155769,
+        "category": "monument",
+        "city": "MUĞLA",
+        "district": "Bodrum"
+    },
+    {
+        "id": "10299",
+        "name": "Sakız Dede Türbesi, Kuşadası",
+        "lat": 37.8564606,
+        "lon": 27.2525959,
+        "category": "monument",
+        "city": "AYDIN",
+        "district": "Kuşadası"
+    },
+    {
+        "id": "103",
+        "name": "İslam bilim ve teknoloji tarihi müzesi",
+        "name_en": "Museum of The History of Science and Technology in Islam",
+        "lat": 41.0132188,
+        "lon": 28.9789678,
+        "category": "museum",
+        "city": "ISTANBUL",
+        "district": "Fatih"
+    },
+    {
+        "id": "10303",
+        "name": "Zincirli Ahmed Dede Yatırı",
+        "lat": 40.407384689,
+        "lon": 26.666375018,
+        "category": "monument",
+        "city": "CANAKKALE",
+        "district": "Gelibolu"
+    },
+    {
+        "id": "10306",
+        "name": "Esad Dede Yatırı",
+        "lat": 36.53089413,
+        "lon": 31.999144981,
+        "category": "monument",
+        "city": "ANTALYA",
+        "district": "Alanya"
+    },
+    {
+        "id": "10307",
+        "name": "Karpuz Dede Yatırı",
+        "lat": 39.59434226,
+        "lon": 27.01698987,
+        "category": "monument",
+        "city": "BALIKESIR",
+        "district": "Edremit"
+    },
+    {
+        "id": "10308",
+        "name": "Yatır (Bayramiç)",
+        "lat": 39.811171984,
+        "lon": 26.613129645,
+        "category": "monument",
+        "city": "CANAKKALE",
+        "district": "Bayramiç"
+    },
+    {
+        "id": "10319",
+        "name": "Akpınar Dede Yatırı",
+        "lat": 38.321579,
+        "lon": 26.7706699,
+        "category": "monument",
+        "city": "IZMIR",
+        "district": "Urla"
+    },
+    {
+        "id": "10320",
+        "name": "Kırklar Makamı",
+        "lat": 39.9075127,
+        "lon": 41.2763977,
+        "category": "monument",
+        "city": "ERZURUM",
+        "district": "Yakutiye"
+    },
+    {
+        "id": "10322",
+        "name": "İlyas Dede Yatırı",
+        "lat": 37.4756737,
+        "lon": 27.4619904,
+        "category": "monument",
+        "city": "MUĞLA",
+        "district": "Milas"
+    },
+    {
+        "id": "10325",
+        "name": "Hıdır İlyas Dede Türbesi",
+        "lat": 38.5997009,
+        "lon": 27.0683994,
+        "category": "tomb",
+        "city": "IZMIR",
+        "district": "Menemen"
+    },
+    {
+        "id": "10327",
+        "name": "Salih Dede Yatırı",
+        "lat": 38.4199104,
+        "lon": 27.1482944,
+        "category": "monument",
+        "city": "IZMIR",
+        "district": "Konak"
+    },
+    {
+        "id": "10331",
+        "name": "Çaldede Eren Mezarı",
+        "lat": 38.0026817,
+        "lon": 27.8551483,
+        "category": "monument",
+        "city": "IZMIR",
+        "district": "Tire"
+    },
+    {
+        "id": "10334",
+        "name": "Hacetdede Eren Mezarı",
+        "lat": 38.0287476,
+        "lon": 28.0419579,
+        "category": "monument",
+        "city": "AYDIN",
+        "district": "Köşk"
+    },
+    {
+        "id": "10337",
+        "name": "Kanuni Sultan Süleyman Türbesi",
+        "lat": 41.01569,
+        "lon": 28.964469,
+        "category": "tomb",
+        "city": "ISTANBUL",
+        "district": "Fatih"
+    },
+    {
+        "id": "10340",
+        "name": "Çinili Camii Şadırvanı",
+        "lat": 41.02009,
+        "lon": 29.029111,
+        "category": "monument",
+        "city": "ISTANBUL",
+        "district": "Üsküdar"
+    },
+    {
+        "id": "10341",
+        "name": "Sinan Paşa Camii Şadırvanı, Beşiktaş",
+        "lat": 41.0424309,
+        "lon": 29.0060368,
+        "category": "monument",
+        "city": "ISTANBUL",
+        "district": "Beşiktaş"
+    },
+    {
+        "id": "10342",
+        "name": "şadırvan of Cihanoğlu Mosque",
+        "lat": 37.8534,
+        "lon": 27.8397,
+        "category": "monument",
+        "city": "AYDIN",
+        "district": "Efeler"
+    },
+    {
+        "id": "10346",
+        "name": "Diyarbakır Ulu Cami Şadırvanı",
+        "lat": 37.912445847,
+        "lon": 40.235833964,
+        "category": "monument",
+        "city": "DIYARBAKIR",
+        "district": "Sur"
+    },
+    {
+        "id": "10347",
+        "name": "Yeşil Cami Şadırvanı",
+        "lat": 40.182384874,
+        "lon": 29.074399988,
+        "category": "monument",
+        "city": "BURSA",
+        "district": "Yıldırım"
+    },
+    {
+        "id": "10348",
+        "name": "Hüsrev Paşa Camii Şadırvanı",
+        "lat": 38.498344664,
+        "lon": 43.338677984,
+        "category": "monument",
+        "city": "VAN",
+        "district": "İpekyolu"
+    },
+    {
+        "id": "10349",
+        "name": "Habib-i Neccar Camii Şadırvanı",
+        "lat": 36.201862351,
+        "lon": 36.165409254,
+        "category": "monument",
+        "city": "HATAY",
+        "district": "Antakya"
+    },
+    {
+        "id": "10351",
+        "name": "Çorlulu Ali Paşa Camii Şadırvanı",
+        "lat": 41.034366241,
+        "lon": 28.960384874,
+        "category": "monument",
+        "city": "ISTANBUL",
+        "district": "Beyoğlu"
+    },
+    {
+        "id": "10352",
+        "name": "Muradiye Camii Şadırvanı",
+        "lat": 40.191215475,
+        "lon": 29.046492138,
+        "category": "monument",
+        "city": "BURSA",
+        "district": "Osmangazi"
+    },
+    {
+        "id": "10353",
+        "name": "Hacı Ahmet Paşa Camii Şadırvanı",
+        "lat": 38.72235894,
+        "lon": 35.485031084,
+        "category": "monument",
+        "city": "KAYSERI",
+        "district": "Kocasinan"
+    },
+    {
+        "id": "10354",
+        "name": "Aşir Efendi Kütüphanesi Şadırvanı",
+        "lat": 41.014985583,
+        "lon": 28.9715396,
+        "category": "monument",
+        "city": "ISTANBUL",
+        "district": "Fatih"
+    },
+    {
+        "id": "10356",
+        "name": "Yılanlı Cami Şadırvanları",
+        "lat": 41.376891428,
+        "lon": 33.774670465,
+        "category": "monument",
+        "city": "KASTAMONU",
+        "district": "Kastamonu merkez"
+    },
+    {
+        "id": "10357",
+        "name": "Meryem Ana Kilisesi",
+        "lat": 41.038742,
+        "lon": 28.942831,
+        "category": "monument",
+        "city": "ISTANBUL",
+        "district": "Fatih"
+    },
+    {
+        "id": "10358",
+        "name": "Balıklı Meryem Ana Rum Manastırı",
+        "lat": 41.0065,
+        "lon": 28.9157,
+        "category": "monument",
+        "city": "ISTANBUL",
+        "district": "Zeytinburnu"
+    },
+    {
+        "id": "10359",
+        "name": "Zağnos Dere Ayazması",
+        "lat": 41.004881441,
+        "lon": 39.717727614,
+        "category": "monument",
+        "city": "TRABZON",
+        "district": "Ortahisar"
+    },
+    {
+        "id": "10363",
+        "name": "Unkapanı Ayazması",
+        "lat": 41.021234334,
+        "lon": 28.963301292,
+        "category": "monument",
+        "city": "ISTANBUL",
+        "district": "Fatih"
+    },
+    {
+        "id": "10364",
+        "name": "Toklu Dede Ayazması",
+        "lat": 41.039562662,
+        "lon": 28.941400017,
+        "category": "monument",
+        "city": "ISTANBUL",
+        "district": "Eyüpsultan"
+    },
+    {
+        "id": "10365",
+        "name": "Fener Rum Patrikhanesi Ayazması",
+        "lat": 41.028689192,
+        "lon": 28.952015411,
+        "category": "monument",
+        "city": "ISTANBUL",
+        "district": "Fatih"
+    },
+    {
+        "id": "10367",
+        "name": "Aziz Gregorius Ayazması",
+        "lat": 38.275947,
+        "lon": 34.370842,
+        "category": "monument",
+        "city": "AKSARAY",
+        "district": "Güzelyurt"
+    },
+    {
+        "id": "10369",
+        "name": "Panayia Vlaherna Ayazması",
+        "lat": 41.0385857,
+        "lon": 28.9428596,
+        "category": "monument",
+        "city": "ISTANBUL",
+        "district": "Fatih"
+    },
+    {
+        "id": "10370",
+        "name": "Aziz Vukolos Ayazması",
+        "lat": 38.4211197,
+        "lon": 27.1473408,
+        "category": "monument",
+        "city": "IZMIR",
+        "district": "Konak"
+    },
+    {
+        "id": "10372",
+        "name": "Aya Kiryaki Ayazması",
+        "lat": 38.0821762,
+        "lon": 27.7491264,
+        "category": "monument",
+        "city": "IZMIR",
+        "district": "Tire"
+    },
+    {
+        "id": "10373",
+        "name": "Sütveren Meryem Ayazması",
+        "lat": 38.4166107,
+        "lon": 27.1379509,
+        "category": "monument",
+        "city": "IZMIR",
+        "district": "Konak"
+    },
+    {
+        "id": "10374",
+        "name": "Ayazma (Aziz Philippus Kutsal Alanı)",
+        "lat": 37.9308281,
+        "lon": 29.1303616,
+        "category": "monument",
+        "city": "DENIZLI",
+        "district": "Pamukkale"
+    },
+    {
+        "id": "10375",
+        "name": "Böcek Ayazma",
+        "lat": 40.4263763,
+        "lon": 29.7251701,
+        "category": "monument",
+        "city": "BURSA",
+        "district": "İznik"
+    },
+    {
+        "id": "10376",
+        "name": "Panagia Phaneromeni Ayazması",
+        "lat": 39.313399,
+        "lon": 26.691181,
+        "category": "monument",
+        "city": "BALIKESIR",
+        "district": "Ayvalık"
+    },
+    {
+        "id": "10378",
+        "name": "Piyale Paşa Sebili",
+        "lat": 41.0441933,
+        "lon": 28.9652233,
+        "category": "monument",
+        "city": "ISTANBUL",
+        "district": "Beyoğlu"
+    },
+    {
+        "id": "10379",
+        "name": "Hüseyin Paşa Sebili",
+        "lat": 41.0351562,
+        "lon": 28.9335155,
+        "category": "monument",
+        "city": "ISTANBUL",
+        "district": "Eyüpsultan"
+    },
+    {
+        "id": "10380",
+        "name": "Hüsrev Paşa Sebili",
+        "lat": 41.0187073,
+        "lon": 28.9427013,
+        "category": "monument",
+        "city": "ISTANBUL",
+        "district": "Fatih"
+    },
+    {
+        "id": "10381",
+        "name": "Piyalepaşa Sebili",
+        "lat": 41.0128517,
+        "lon": 28.9675388,
+        "category": "monument",
+        "city": "ISTANBUL",
+        "district": "Fatih"
+    },
+    {
+        "id": "10383",
+        "name": "Efdalzade Sebili",
+        "lat": 41.0245819,
+        "lon": 28.9441109,
+        "category": "monument",
+        "city": "ISTANBUL",
+        "district": "Fatih"
+    },
+    {
+        "id": "10385",
+        "name": "Ahmediye Sebili",
+        "lat": 41.0200272,
+        "lon": 29.0168018,
+        "category": "monument",
+        "city": "ISTANBUL",
+        "district": "Üsküdar"
+    },
+    {
+        "id": "10386",
+        "name": "Çinili Camii Sebili",
+        "lat": 41.0200882,
+        "lon": 29.0289211,
+        "category": "monument",
+        "city": "ISTANBUL",
+        "district": "Üsküdar"
+    },
+    {
+        "id": "10388",
+        "name": "Benlizade Ahmet Reşit Efendi Sebili",
+        "lat": 41.0236969,
+        "lon": 28.9486885,
+        "category": "monument",
+        "city": "ISTANBUL",
+        "district": "Fatih"
+    },
+    {
+        "id": "10389",
+        "name": "Gazi Ahmet Paşa Sebili",
+        "lat": 41.0209084,
+        "lon": 28.9281826,
+        "category": "monument",
+        "city": "ISTANBUL",
+        "district": "Fatih"
+    },
+    {
+        "id": "10390",
+        "name": "Rüstem Paşa Sebili",
+        "lat": 41.0131302,
+        "lon": 28.9576721,
+        "category": "monument",
+        "city": "ISTANBUL",
+        "district": "Fatih"
+    },
+    {
+        "id": "10391",
+        "name": "Pazar Tekke Sebili",
+        "lat": 41.0187683,
+        "lon": 28.9283218,
+        "category": "monument",
+        "city": "ISTANBUL",
+        "district": "Fatih"
+    },
+    {
+        "id": "10392",
+        "name": "Laleli Sebili",
+        "lat": 41.009672,
+        "lon": 28.956118,
+        "category": "monument",
+        "city": "ISTANBUL",
+        "district": "Fatih"
+    },
+    {
+        "id": "10393",
+        "name": "Hekimoğlu Ali Paşa Sebili",
+        "lat": 41.0065678,
+        "lon": 28.9354549,
+        "category": "monument",
+        "city": "ISTANBUL",
+        "district": "Fatih"
+    },
+    {
+        "id": "10394",
+        "name": "Kaptan Pir Ahmet Paşa Sebili",
+        "lat": 41.021694,
+        "lon": 28.947709,
+        "category": "monument",
+        "city": "ISTANBUL",
+        "district": "Fatih"
+    },
+    {
+        "id": "10395",
+        "name": "Safiye Hanım Sultan Sebili",
+        "lat": 41.0132848,
+        "lon": 28.9579755,
+        "category": "monument",
+        "city": "ISTANBUL",
+        "district": "Fatih"
+    },
+    {
+        "id": "10396",
+        "name": "Malta Köşkü Selsebili",
+        "lat": 41.0511395,
+        "lon": 29.0159596,
+        "category": "monument",
+        "city": "ISTANBUL",
+        "district": "Beşiktaş"
+    },
+    {
+        "id": "10397",
+        "name": "Nusretiye Sebili",
+        "lat": 41.027645,
+        "lon": 28.983395,
+        "category": "monument",
+        "city": "ISTANBUL",
+        "district": "Beyoğlu"
+    },
+    {
+        "id": "10398",
+        "name": "Türk ve İslam Eserleri Müzesi Selsebili",
+        "lat": 41.0063657,
+        "lon": 28.9749761,
+        "category": "monument",
+        "city": "ISTANBUL",
+        "district": "Fatih"
+    },
+    {
+        "id": "10399",
+        "name": "Sultan Mahmut Türbesi Sebili",
+        "lat": 41.0084095,
+        "lon": 28.9729353,
+        "category": "monument",
+        "city": "ISTANBUL",
+        "district": "Fatih"
+    },
+    {
+        "id": "104",
+        "name": "Ferhat and Şirin Lovers Museum",
+        "lat": 40.6331928,
+        "lon": 35.8133718,
+        "category": "museum",
+        "city": "AMASYA",
+        "district": "Amasya merkez"
+    },
+    {
+        "id": "10400",
+        "name": "Sultan Ahmet Külliyesi Sebili 1",
+        "lat": 41.0065384,
+        "lon": 28.9765968,
+        "category": "monument",
+        "city": "ISTANBUL",
+        "district": "Fatih"
+    },
+    {
+        "id": "10401",
+        "name": "Şah Sultan Sebili",
+        "lat": 41.0445782,
+        "lon": 28.9363722,
+        "category": "monument",
+        "city": "ISTANBUL",
+        "district": "Eyüpsultan"
+    },
+    {
+        "id": "10402",
+        "name": "Yeşildirek Sebili",
+        "lat": 41.025356,
+        "lon": 28.969315,
+        "category": "monument",
+        "city": "ISTANBUL",
+        "district": "Beyoğlu"
+    },
+    {
+        "id": "10403",
+        "name": "Eyüp Sultan Sebili",
+        "lat": 41.0482063,
+        "lon": 28.9336624,
+        "category": "monument",
+        "city": "ISTANBUL",
+        "district": "Eyüpsultan"
+    },
+    {
+        "id": "10404",
+        "name": "Suadiye Camii Sebili",
+        "lat": 40.962306,
+        "lon": 29.0797036,
+        "category": "monument",
+        "city": "ISTANBUL",
+        "district": "Kadıköy"
+    },
+    {
+        "id": "10405",
+        "name": "Gülnuş Valide Sultan Sebili, Beyazıt",
+        "lat": 41.009298,
+        "lon": 28.962591,
+        "category": "monument",
+        "city": "ISTANBUL",
+        "district": "Fatih"
+    },
+    {
+        "id": "10406",
+        "name": "Sadrazam Halil Paşa Sebili",
+        "lat": 41.021798,
+        "lon": 29.01526,
+        "category": "monument",
+        "city": "ISTANBUL",
+        "district": "Üsküdar"
+    },
+    {
+        "id": "10407",
+        "name": "Koca Ragıp Paşa Sebili",
+        "lat": 41.009389,
+        "lon": 28.958669,
+        "category": "monument",
+        "city": "ISTANBUL",
+        "district": "Fatih"
+    },
+    {
+        "id": "10409",
+        "name": "Oğlanlar Tekkesi Sebili",
+        "lat": 41.010459,
+        "lon": 28.948466,
+        "category": "monument",
+        "city": "ISTANBUL",
+        "district": "Fatih"
+    },
+    {
+        "id": "10410",
+        "name": "Nuruosmaniye Sebili",
+        "lat": 41.010033343,
+        "lon": 28.970045605,
+        "category": "monument",
+        "city": "ISTANBUL",
+        "district": "Fatih"
+    },
+    {
+        "id": "10411",
+        "name": "Nakşidil Valide Sultan Sebili",
+        "lat": 41.018292,
+        "lon": 28.950762,
+        "category": "monument",
+        "city": "ISTANBUL",
+        "district": "Fatih"
+    },
+    {
+        "id": "10412",
+        "name": "Mimar Sinan Sebili",
+        "lat": 41.017291,
+        "lon": 28.963878,
+        "category": "monument",
+        "city": "ISTANBUL",
+        "district": "Fatih"
+    },
+    {
+        "id": "10413",
+        "name": "Merzifonlu Kara Mustafa Paşa Sebili",
+        "lat": 41.0086827,
+        "lon": 28.968214,
+        "category": "monument",
+        "city": "ISTANBUL",
+        "district": "Fatih"
+    },
+    {
+        "id": "10414",
+        "name": "Kılıç Ali Paşa Sebili",
+        "lat": 41.026741,
+        "lon": 28.9808445,
+        "category": "monument",
+        "city": "ISTANBUL",
+        "district": "Beyoğlu"
+    },
+    {
+        "id": "10415",
+        "name": "Kasım Paşa Sebili",
+        "lat": 41.033154,
+        "lon": 28.968902,
+        "category": "monument",
+        "city": "ISTANBUL",
+        "district": "Beyoğlu"
+    },
+    {
+        "id": "10416",
+        "name": "Edirnekapı Şehitliği Selsebili",
+        "lat": 41.033052,
+        "lon": 28.930879,
+        "category": "monument",
+        "city": "ISTANBUL",
+        "district": "Eyüpsultan"
+    },
+    {
+        "id": "10418",
+        "name": "Aziz Mahmud Hüdai Sebili",
+        "lat": 41.02248,
+        "lon": 29.014415,
+        "category": "monument",
+        "city": "ISTANBUL",
+        "district": "Üsküdar"
+    },
+    {
+        "id": "10419",
+        "name": "Ayşe Bihri Kadın Sebili",
+        "lat": 41.048315,
+        "lon": 28.933823,
+        "category": "monument",
+        "city": "ISTANBUL",
+        "district": "Eyüpsultan"
+    },
+    {
+        "id": "10420",
+        "name": "Ali Paşa Sebili",
+        "lat": 41.01269,
+        "lon": 28.966067,
+        "category": "monument",
+        "city": "ISTANBUL",
+        "district": "Fatih"
+    },
+    {
+        "id": "10421",
+        "name": "Kuyucu Murat Paşa Medresesi Sebili",
+        "lat": 41.011372,
+        "lon": 28.960343,
+        "category": "monument",
+        "city": "ISTANBUL",
+        "district": "Fatih"
+    },
+    {
+        "id": "10424",
+        "name": "Şeyhülislam Arif Hikmet Bey Sebili",
+        "lat": 41.01572,
+        "lon": 29.028795,
+        "category": "monument",
+        "city": "ISTANBUL",
+        "district": "Üsküdar"
+    },
+    {
+        "id": "10425",
+        "name": "Kaptan İbrahim Paşa Sebili",
+        "lat": 41.012669,
+        "lon": 28.962467,
+        "category": "monument",
+        "city": "ISTANBUL",
+        "district": "Fatih"
+    },
+    {
+        "id": "10427",
+        "name": "Rehabula Kadın Sebili",
+        "lat": 41.017034,
+        "lon": 28.960361,
+        "category": "monument",
+        "city": "ISTANBUL",
+        "district": "Fatih"
+    },
+    {
+        "id": "10428",
+        "name": "Muradiye Sebili",
+        "lat": 41.014015,
+        "lon": 28.976707,
+        "category": "monument",
+        "city": "ISTANBUL",
+        "district": "Fatih"
+    },
+    {
+        "id": "10429",
+        "name": "Koca Sinan Paşa Sebili",
+        "lat": 41.008808,
+        "lon": 28.968548,
+        "category": "monument",
+        "city": "ISTANBUL",
+        "district": "Fatih"
+    },
+    {
+        "id": "10430",
+        "name": "Gazanfer Ağa Sebili",
+        "lat": 41.016384,
+        "lon": 28.955633,
+        "category": "monument",
+        "city": "ISTANBUL",
+        "district": "Fatih"
+    },
+    {
+        "id": "10431",
+        "name": "Bayram Paşa Külliyesi Sebili",
+        "lat": 41.008774,
+        "lon": 28.942415,
+        "category": "monument",
+        "city": "ISTANBUL",
+        "district": "Fatih"
+    },
+    {
+        "id": "10433",
+        "name": "Amcazade Hüseyin Paşa Sebili",
+        "lat": 41.0153758,
+        "lon": 28.9524406,
+        "category": "monument",
+        "city": "ISTANBUL",
+        "district": "Fatih"
+    },
+    {
+        "id": "10434",
+        "name": "Selimiye Sebili",
+        "lat": 41.678062701,
+        "lon": 26.557657825,
+        "category": "monument",
+        "city": "EDIRNE",
+        "district": "Edirne merkez"
+    },
+    {
+        "id": "10435",
+        "name": "Mevlana Külliyesi Sebili 2",
+        "lat": 37.870569799,
+        "lon": 32.506203008,
+        "category": "monument",
+        "city": "KONYA",
+        "district": "Karatay"
+    },
+    {
+        "id": "10436",
+        "name": "Mevlana Külliyesi Sebili",
+        "lat": 37.871294731,
+        "lon": 32.504409043,
+        "category": "monument",
+        "city": "KONYA",
+        "district": "Karatay"
+    },
+    {
+        "id": "10437",
+        "name": "Adana Ulu Cami Sebili",
+        "lat": 36.985003161,
+        "lon": 35.330908955,
+        "category": "monument",
+        "city": "ADANA",
+        "district": "Seyhan"
+    },
+    {
+        "id": "10438",
+        "name": "Esat Muhlis Paşa Sebili",
+        "lat": 41.6735725,
+        "lon": 26.553587,
+        "category": "monument",
+        "city": "EDIRNE",
+        "district": "Edirne merkez"
+    },
+    {
+        "id": "1044",
+        "name": "Beşikli Mağara - Kaya Mezarlıkları",
+        "name_en": "Cradle Cave",
+        "lat": 36.1203177,
+        "lon": 35.9284933,
+        "category": "other",
+        "city": "HATAY",
+        "district": "Samandağ"
+    },
+    {
+        "id": "10440",
+        "name": "Edirne Ulu Camii Sebili",
+        "lat": 41.6769905,
+        "lon": 26.5557556,
+        "category": "monument",
+        "city": "EDIRNE",
+        "district": "Edirne merkez"
+    },
+    {
+        "id": "10442",
+        "name": "Sebil (Erbeyli Camii)",
+        "lat": 37.8676224,
+        "lon": 27.6800461,
+        "category": "monument",
+        "city": "AYDIN",
+        "district": "İncirliova"
+    },
+    {
+        "id": "10443",
+        "name": "Sekibaşı Sebili",
+        "lat": 37.2191582,
+        "lon": 28.3595753,
+        "category": "monument",
+        "city": "MUĞLA",
+        "district": "Menteşe"
+    },
+    {
+        "id": "10444",
+        "name": "Karaosmanoğlu Sebili (Zeytinliova)",
+        "lat": 38.9929314,
+        "lon": 27.6778622,
+        "category": "monument",
+        "city": "MANISA",
+        "district": "Akhisar"
+    },
+    {
+        "id": "10448",
+        "name": "Taşhan Sebili",
+        "lat": 38.6083984,
+        "lon": 27.0657005,
+        "category": "monument",
+        "city": "IZMIR",
+        "district": "Menemen"
+    },
+    {
+        "id": "10451",
+        "name": "Kemeraltı Sebili ve Muvakkithanesi",
+        "lat": 38.4184189,
+        "lon": 27.1317463,
+        "category": "monument",
+        "city": "IZMIR",
+        "district": "Konak"
+    },
+    {
+        "id": "10456",
+        "name": "Sebil (Esenköy)",
+        "lat": 37.8116989,
+        "lon": 28.3469009,
+        "category": "monument",
+        "city": "AYDIN",
+        "district": "Nazilli"
+    },
+    {
+        "id": "10458",
+        "name": "Ramazanpaşa Mahallesi Sebili",
+        "lat": 37.8515015,
+        "lon": 27.8443718,
+        "category": "monument",
+        "city": "AYDIN",
+        "district": "Efeler"
+    },
+    {
+        "id": "10460",
+        "name": "Gaffarzade Hacı Ahmet Sebili",
+        "lat": 38.4216385,
+        "lon": 27.1318855,
+        "category": "monument",
+        "city": "IZMIR",
+        "district": "Konak"
+    },
+    {
+        "id": "10461",
+        "name": "Ayşekadın Sebili",
+        "lat": 41.6713142,
+        "lon": 26.5632439,
+        "category": "monument",
+        "city": "EDIRNE",
+        "district": "Edirne merkez"
+    },
+    {
+        "id": "10463",
+        "name": "Mevlana Külliyesi Selsebili",
+        "lat": 37.8708344,
+        "lon": 32.5046234,
+        "category": "monument",
+        "city": "KONYA",
+        "district": "Karatay"
+    },
+    {
+        "id": "10464",
+        "name": "Cihanoğlu Sebili",
+        "lat": 37.7596474,
+        "lon": 27.7064571,
+        "category": "monument",
+        "city": "AYDIN",
+        "district": "Koçarlı"
+    },
+    {
+        "id": "10470",
+        "name": "Şehit Yakup Baba Kabri",
+        "lat": 40.229328069,
+        "lon": 42.273747893,
+        "category": "monument",
+        "city": "KARS",
+        "district": "Sarıkamış"
+    },
+    {
+        "id": "10474",
+        "name": "Kabir (Rüstem Nail Camii)",
+        "lat": 39.935552619,
+        "lon": 32.8674751,
+        "category": "monument",
+        "city": "ANKARA",
+        "district": "Altındağ"
+    },
+    {
+        "id": "10477",
+        "name": "Vaiz Şemseddin Kutbuddin Efendi Kabri",
+        "lat": 39.149909212,
+        "lon": 34.164703705,
+        "category": "monument",
+        "city": "KIRŞEHIR",
+        "district": "Kırşehir merkez"
+    },
+    {
+        "id": "10478",
+        "name": "Samud Dede Kabri",
+        "lat": 40.231342519,
+        "lon": 26.608498473,
+        "category": "monument",
+        "city": "CANAKKALE",
+        "district": "Lapseki"
+    },
+    {
+        "id": "10484",
+        "name": "Süfyan b. Übeyne ve Abdullah b. Amir Kabirleri",
+        "lat": 41.022401758,
+        "lon": 28.976531096,
+        "category": "monument",
+        "city": "ISTANBUL",
+        "district": "Beyoğlu"
+    },
+    {
+        "id": "10485",
+        "name": "Rauf Orbay Kabri",
+        "lat": 40.981424741,
+        "lon": 29.076990276,
+        "category": "monument",
+        "city": "ISTANBUL",
+        "district": "Kadıköy"
+    },
+    {
+        "id": "10486",
+        "name": "Basri Şeyh Kabri",
+        "lat": 39.610202553,
+        "lon": 32.12179199,
+        "category": "monument",
+        "city": "ANKARA",
+        "district": "Polatlı"
+    },
+    {
+        "id": "10487",
+        "name": "Kesikbaş Dede Türbesi",
+        "lat": 40.169264023,
+        "lon": 31.917813897,
+        "category": "tomb",
+        "city": "ANKARA",
+        "district": "Beypazarı"
+    },
+    {
+        "id": "10488",
+        "name": "Ali Baba Türbesi (Akyurt)",
+        "lat": 40.1555201,
+        "lon": 33.0927059,
+        "category": "monument",
+        "city": "ANKARA",
+        "district": "Akyurt"
+    },
+    {
+        "id": "10489",
+        "name": "Baba Sultan Türbesi (Akyurt)",
+        "lat": 40.0545786,
+        "lon": 33.0708922,
+        "category": "monument",
+        "city": "ANKARA",
+        "district": "Akyurt"
+    },
+    {
+        "id": "10490",
+        "name": "Garip Dede Türbesi (Kahramankazan)",
+        "lat": 40.1302942,
+        "lon": 32.556297,
+        "category": "monument",
+        "city": "ANKARA",
+        "district": "Kahramankazan"
+    },
+    {
+        "id": "10491",
+        "name": "Abdülhakim Arvasi Kabri",
+        "lat": 40.0520169,
+        "lon": 32.8405689,
+        "category": "monument",
+        "city": "ANKARA",
+        "district": "Keçiören"
+    },
+    {
+        "id": "10492",
+        "name": "Kara Şeyh Kabri",
+        "lat": 39.169661253,
+        "lon": 35.594555812,
+        "category": "monument",
+        "city": "KAYSERI",
+        "district": "Felahiye"
+    },
+    {
+        "id": "10493",
+        "name": "Kabir 2",
+        "lat": 37.870634968,
+        "lon": 32.505286873,
+        "category": "monument",
+        "city": "KONYA",
+        "district": "Karatay"
+    },
+    {
+        "id": "10494",
+        "name": "Kabir (Mevlana Külliyesi)",
+        "lat": 37.87053809,
+        "lon": 32.505283415,
+        "category": "monument",
+        "city": "KONYA",
+        "district": "Karatay"
+    },
+    {
+        "id": "10495",
+        "name": "Üçler Mezarları",
+        "lat": 37.870023242,
+        "lon": 32.504890832,
+        "category": "monument",
+        "city": "KONYA",
+        "district": "Karatay"
+    },
+    {
+        "id": "10496",
+        "name": "Kabir (Sultan Alaeddin Camii)",
+        "lat": 39.93929846,
+        "lon": 32.864449119,
+        "category": "monument",
+        "city": "ANKARA",
+        "district": "Altındağ"
+    },
+    {
+        "id": "10497",
+        "name": "Şemsi Dede Kabri",
+        "lat": 40.015687134,
+        "lon": 32.327736053,
+        "category": "monument",
+        "city": "ANKARA",
+        "district": "Ayaş"
+    },
+    {
+        "id": "105",
+        "name": "Balkan Savaşları Müzesi",
+        "name_en": "Museum of the Balkan Wars",
+        "lat": 41.6751407,
+        "lon": 26.5757024,
+        "category": "museum",
+        "city": "EDIRNE",
+        "district": "Edirne merkez"
+    },
+    {
+        "id": "10500",
+        "name": "İskender Sultan Türbesi",
+        "lat": 40.016644048,
+        "lon": 32.333476326,
+        "category": "tomb",
+        "city": "ANKARA",
+        "district": "Ayaş"
+    },
+    {
+        "id": "10502",
+        "name": "Yavuz Analar Mezarları",
+        "lat": 40.016537322,
+        "lon": 32.335224208,
+        "category": "monument",
+        "city": "ANKARA",
+        "district": "Ayaş"
+    },
+    {
+        "id": "10504",
+        "name": "Toprak Dede Kabri",
+        "lat": 40.024239967,
+        "lon": 32.330037389,
+        "category": "monument",
+        "city": "ANKARA",
+        "district": "Ayaş"
+    },
+    {
+        "id": "10509",
+        "name": "Kadı İzzeddin Kabri",
+        "lat": 37.876929135,
+        "lon": 32.494717697,
+        "category": "monument",
+        "city": "KONYA",
+        "district": "Karatay"
+    },
+    {
+        "id": "10510",
+        "name": "Subaşı Has Ahmed Efendi Kabri",
+        "lat": 40.409811766,
+        "lon": 26.673911775,
+        "category": "monument",
+        "city": "CANAKKALE",
+        "district": "Gelibolu"
+    },
+    {
+        "id": "10511",
+        "name": "Kalafat Mehmed Paşa Kabri",
+        "lat": 40.40901593,
+        "lon": 26.680130442,
+        "category": "monument",
+        "city": "CANAKKALE",
+        "district": "Gelibolu"
+    },
+    {
+        "id": "10512",
+        "name": "Hüseyin Bece Gazi Kabri",
+        "lat": 40.407741984,
+        "lon": 26.673459403,
+        "category": "monument",
+        "city": "CANAKKALE",
+        "district": "Gelibolu"
+    },
+    {
+        "id": "10513",
+        "name": "Ece Bey Kabri",
+        "lat": 40.35147151,
+        "lon": 26.439573468,
+        "category": "monument",
+        "city": "CANAKKALE",
+        "district": "Gelibolu"
+    },
+    {
+        "id": "10514",
+        "name": "Ethem bin Abdullah Piri Kabri",
+        "lat": 40.413980102,
+        "lon": 26.675520054,
+        "category": "monument",
+        "city": "CANAKKALE",
+        "district": "Gelibolu"
+    },
+    {
+        "id": "10515",
+        "name": "Sofra Dede Kabri",
+        "lat": 40.407488254,
+        "lon": 26.666990685,
+        "category": "monument",
+        "city": "CANAKKALE",
+        "district": "Gelibolu"
+    },
+    {
+        "id": "10516",
+        "name": "Molla Ali Efendi Kabri",
+        "lat": 40.410531629,
+        "lon": 26.671902089,
+        "category": "monument",
+        "city": "CANAKKALE",
+        "district": "Gelibolu"
+    },
+    {
+        "id": "10517",
+        "name": "Mastarlı Dede Kabri",
+        "lat": 40.408265825,
+        "lon": 26.664750711,
+        "category": "monument",
+        "city": "CANAKKALE",
+        "district": "Gelibolu"
+    },
+    {
+        "id": "10518",
+        "name": "Kalender Baba Kabri",
+        "lat": 40.407747506,
+        "lon": 26.675220165,
+        "category": "monument",
+        "city": "CANAKKALE",
+        "district": "Gelibolu"
+    },
+    {
+        "id": "10519",
+        "name": "İbn-i Hasancık Kabri",
+        "lat": 40.407645823,
+        "lon": 26.67092387,
+        "category": "monument",
+        "city": "CANAKKALE",
+        "district": "Gelibolu"
+    },
+    {
+        "id": "10520",
+        "name": "İbn-i Benah Kabri",
+        "lat": 40.410946614,
+        "lon": 26.676972167,
+        "category": "monument",
+        "city": "CANAKKALE",
+        "district": "Gelibolu"
+    },
+    {
+        "id": "10521",
+        "name": "Hoca Hamza Kabri",
+        "lat": 40.409344866,
+        "lon": 26.679003383,
+        "category": "monument",
+        "city": "CANAKKALE",
+        "district": "Gelibolu"
+    },
+    {
+        "id": "10522",
+        "name": "Hakkı Hayran Dede Kabri",
+        "lat": 40.410391634,
+        "lon": 26.664561816,
+        "category": "monument",
+        "city": "CANAKKALE",
+        "district": "Gelibolu"
+    },
+    {
+        "id": "10523",
+        "name": "Gelincik Hatun Kabri",
+        "lat": 40.408937907,
+        "lon": 26.670839485,
+        "category": "monument",
+        "city": "CANAKKALE",
+        "district": "Gelibolu"
+    },
+    {
+        "id": "10524",
+        "name": "Gaffar Baba Kabri",
+        "lat": 40.409146751,
+        "lon": 26.65889985,
+        "category": "monument",
+        "city": "CANAKKALE",
+        "district": "Gelibolu"
+    },
+    {
+        "id": "10525",
+        "name": "Damat Dede Kabri",
+        "lat": 40.408885259,
+        "lon": 26.670325223,
+        "category": "monument",
+        "city": "CANAKKALE",
+        "district": "Gelibolu"
+    },
+    {
+        "id": "10526",
+        "name": "Bahşizade Sultan Kabri",
+        "lat": 40.409130077,
+        "lon": 26.668593592,
+        "category": "monument",
+        "city": "CANAKKALE",
+        "district": "Gelibolu"
+    },
+    {
+        "id": "10528",
+        "name": "Hacı Keçeci Dede Kabri",
+        "lat": 40.412131697,
+        "lon": 26.673518362,
+        "category": "monument",
+        "city": "CANAKKALE",
+        "district": "Gelibolu"
+    },
+    {
+        "id": "10529",
+        "name": "Kadir Baba Kabri",
+        "lat": 40.410819602,
+        "lon": 26.675813523,
+        "category": "monument",
+        "city": "CANAKKALE",
+        "district": "Gelibolu"
+    },
+    {
+        "id": "10531",
+        "name": "Abdullah Dede Kabri",
+        "lat": 40.408365247,
+        "lon": 26.665062524,
+        "category": "monument",
+        "city": "CANAKKALE",
+        "district": "Gelibolu"
+    },
+    {
+        "id": "10533",
+        "name": "Ahmed Nazif Efendi Kabri",
+        "lat": 38.716353334,
+        "lon": 35.497683507,
+        "category": "monument",
+        "city": "KAYSERI",
+        "district": "Melikgazi"
+    },
+    {
+        "id": "10535",
+        "name": "Cabir Bin Muhammed El-Ensari Kabri",
+        "lat": 41.047136978,
+        "lon": 28.927043037,
+        "category": "monument",
+        "city": "ISTANBUL",
+        "district": "Eyüpsultan"
+    },
+    {
+        "id": "10536",
+        "name": "Ali Tabli Hazretleri Kabri",
+        "lat": 41.014525819,
+        "lon": 28.957013992,
+        "category": "monument",
+        "city": "ISTANBUL",
+        "district": "Fatih"
+    },
+    {
+        "id": "10538",
+        "name": "Tarsus Ulu Camii Kabirleri",
+        "lat": 36.915684507,
+        "lon": 34.897597139,
+        "category": "monument",
+        "city": "MERSIN",
+        "district": "Tarsus"
+    },
+    {
+        "id": "10539",
+        "name": "Mirliva Hüseyin Bey Kabri",
+        "lat": 38.726702593,
+        "lon": 35.484751198,
+        "category": "monument",
+        "city": "KAYSERI",
+        "district": "Kocasinan"
+    },
+    {
+        "id": "10540",
+        "name": "Sahabe Kabri",
+        "lat": 37.7347116,
+        "lon": 32.4659307,
+        "category": "monument",
+        "city": "KONYA",
+        "district": "Meram"
+    },
+    {
+        "id": "10541",
+        "name": "Aşık Şem’i Kabri",
+        "lat": 37.870266933,
+        "lon": 32.5047133,
+        "category": "monument",
+        "city": "KONYA",
+        "district": "Karatay"
+    },
+    {
+        "id": "10542",
+        "name": "Türbedar Ahmed Dede Kabri",
+        "lat": 37.873762175,
+        "lon": 32.497524103,
+        "category": "monument",
+        "city": "KONYA",
+        "district": "Karatay"
+    },
+    {
+        "id": "10543",
+        "name": "İmir Yaman Kabri",
+        "lat": 39.972897171,
+        "lon": 32.616925805,
+        "category": "monument",
+        "city": "ANKARA",
+        "district": "Etimesgut"
+    },
+    {
+        "id": "10544",
+        "name": "Er Gazi Kabri",
+        "lat": 39.954769223,
+        "lon": 32.709277629,
+        "category": "monument",
+        "city": "ANKARA",
+        "district": "Yenimahalle"
+    },
+    {
+        "id": "10551",
+        "name": "Salih Dede Kabri",
+        "lat": 39.643308431,
+        "lon": 27.882076606,
+        "category": "monument",
+        "city": "BALIKESIR",
+        "district": "Altıeylül"
+    },
+    {
+        "id": "10555",
+        "name": "Kabirler (Hacı Ayvaz Camii)",
+        "lat": 39.934880102,
+        "lon": 32.863977973,
+        "category": "monument",
+        "city": "ANKARA",
+        "district": "Altındağ"
+    },
+    {
+        "id": "10557",
+        "name": "Pabuççuzâde Kabri",
+        "lat": 39.906137879,
+        "lon": 41.277376303,
+        "category": "monument",
+        "city": "ERZURUM",
+        "district": "Yakutiye"
+    },
+    {
+        "id": "10558",
+        "name": "Kabir (Kesikbaş Türbesi)",
+        "lat": 39.937492024,
+        "lon": 32.865485397,
+        "category": "monument",
+        "city": "ANKARA",
+        "district": "Altındağ"
+    },
+    {
+        "id": "10559",
+        "name": "Aziz Klemens Kabri",
+        "lat": 39.939916244,
+        "lon": 32.865040089,
+        "category": "monument",
+        "city": "ANKARA",
+        "district": "Altındağ"
+    },
+    {
+        "id": "10560",
+        "name": "Ali Şuuri Efendi Kabri",
+        "lat": 39.648666242,
+        "lon": 27.882560557,
+        "category": "monument",
+        "city": "BALIKESIR",
+        "district": "Karesi"
+    },
+    {
+        "id": "10561",
+        "name": "Şeyh Karamani Mehmed Efendi Kabri",
+        "lat": 39.648256004,
+        "lon": 27.882365102,
+        "category": "monument",
+        "city": "BALIKESIR",
+        "district": "Karesi"
+    },
+    {
+        "id": "10563",
+        "name": "Karaoğlan Kabri",
+        "lat": 39.647860159,
+        "lon": 27.877947469,
+        "category": "monument",
+        "city": "BALIKESIR",
+        "district": "Karesi"
+    },
+    {
+        "id": "10564",
+        "name": "Pir Ali Hz. Kabri",
+        "lat": 39.653271138,
+        "lon": 27.874372926,
+        "category": "monument",
+        "city": "BALIKESIR",
+        "district": "Karesi"
+    },
+    {
+        "id": "10566",
+        "name": "Ahmet Erhan'ın mezarı",
+        "lat": 39.99753,
+        "lon": 32.77778,
+        "category": "monument",
+        "city": "ANKARA",
+        "district": "Yenimahalle"
+    },
+    {
+        "id": "10567",
+        "name": "Ayazini Medusalı Mezar",
+        "lat": 39.012486875,
+        "lon": 30.571597107,
+        "category": "monument",
+        "city": "AFYONKARAHISAR",
+        "district": "İhsaniye"
+    },
+    {
+        "id": "10568",
+        "name": "Ayazini Metropolisi'ndeki mezarlar",
+        "lat": 39.011843301,
+        "lon": 30.568284765,
+        "category": "monument",
+        "city": "AFYONKARAHISAR",
+        "district": "İhsaniye"
+    },
+    {
+        "id": "10569",
+        "name": "Mehmet Buhari Kabri",
+        "lat": 40.40858,
+        "lon": 26.671938,
+        "category": "monument",
+        "city": "CANAKKALE",
+        "district": "Gelibolu"
+    },
+    {
+        "id": "10572",
+        "name": "Seyyid Taha’l Hakkari Türbesi",
+        "lat": 37.29,
+        "lon": 44.5211,
+        "category": "tomb",
+        "city": "HAKKÂRI",
+        "district": "Şemdinli"
+    },
+    {
+        "id": "10574",
+        "name": "Behiç Erkin Kabri ve Anıt Mezarı",
+        "lat": 39.7753029,
+        "lon": 30.4849987,
+        "category": "monument",
+        "city": "ESKIŞEHIR",
+        "district": "Tepebaşı"
+    },
+    {
+        "id": "10576",
+        "name": "Hoca Gıyaseddin Kabri",
+        "lat": 41.0187187,
+        "lon": 28.9618492,
+        "category": "monument",
+        "city": "ISTANBUL",
+        "district": "Fatih"
+    },
+    {
+        "id": "10577",
+        "name": "Daver Baba ve Şehitler Kabri",
+        "lat": 40.96241,
+        "lon": 29.1453285,
+        "category": "monument",
+        "city": "ISTANBUL",
+        "district": "Maltepe"
+    },
+    {
+        "id": "10578",
+        "name": "Dolmen Mezarı, Küçükkarakuyu",
+        "lat": 37.3465996,
+        "lon": 37.5658989,
+        "category": "monument",
+        "city": "GAZIANTEP",
+        "district": "Yavuzeli"
+    },
+    {
+        "id": "10579",
+        "name": "Fatma Sultan Camii, mezar taşı",
+        "lat": 41.0223274,
+        "lon": 28.9285889,
+        "category": "monument",
+        "city": "ISTANBUL",
+        "district": "Fatih"
+    },
+    {
+        "id": "10581",
+        "name": "Börekçi Mustafa Hilmi Baba Kabri, Üsküdar",
+        "lat": 41.026062,
+        "lon": 29.0215626,
+        "category": "monument",
+        "city": "ISTANBUL",
+        "district": "Üsküdar"
+    },
+    {
+        "id": "10582",
+        "name": "Elmalılı Hamdi Yazır Kabri",
+        "lat": 40.984127,
+        "lon": 29.0769939,
+        "category": "monument",
+        "city": "ISTANBUL",
+        "district": "Kadıköy"
+    },
+    {
+        "id": "10583",
+        "name": "Esrar Dede Kabri, Galata Mevlevihanesi",
+        "lat": 41.0281448,
+        "lon": 28.9749069,
+        "category": "monument",
+        "city": "ISTANBUL",
+        "district": "Beyoğlu"
+    },
+    {
+        "id": "10584",
+        "name": "Ayasofya-i Sagir Zaviye Şeyhi Şeyh Muhammed Kabri",
+        "lat": 41.0028992,
+        "lon": 28.9724846,
+        "category": "monument",
+        "city": "ISTANBUL",
+        "district": "Fatih"
+    },
+    {
+        "id": "10585",
+        "name": "Mareşal Mustafa Fevzi Çakmak Kabri",
+        "lat": 41.0499268,
+        "lon": 28.9330959,
+        "category": "monument",
+        "city": "ISTANBUL",
+        "district": "Eyüpsultan"
+    },
+    {
+        "id": "10586",
+        "name": "Şimşir Baba, Eyüp",
+        "lat": 41.0492935,
+        "lon": 28.9322109,
+        "category": "monument",
+        "city": "ISTANBUL",
+        "district": "Eyüpsultan"
+    },
+    {
+        "id": "10587",
+        "name": "Saka Baba, Eyüp",
+        "lat": 41.0433044,
+        "lon": 28.9285851,
+        "category": "monument",
+        "city": "ISTANBUL",
+        "district": "Eyüpsultan"
+    },
+    {
+        "id": "10588",
+        "name": "Hattat Şeyh Hamdullah Efendi Kabri, Üsküdar",
+        "lat": 41.014267,
+        "lon": 29.0187759,
+        "category": "monument",
+        "city": "ISTANBUL",
+        "district": "Üsküdar"
+    },
+    {
+        "id": "10589",
+        "name": "Gaysunizade Mehmet Efendi Kabri",
+        "lat": 41.048664722,
+        "lon": 28.942507526,
+        "category": "monument",
+        "city": "ISTANBUL",
+        "district": "Beyoğlu"
+    },
+    {
+        "id": "10590",
+        "name": "Dede Sultan Süt Baba Kabri",
+        "lat": 41.013256147,
+        "lon": 29.020958854,
+        "category": "monument",
+        "city": "ISTANBUL",
+        "district": "Üsküdar"
+    },
+    {
+        "id": "10591",
+        "name": "Şehit Madam Erika Mezarı",
+        "lat": 40.2606659,
+        "lon": 26.4051247,
+        "category": "monument",
+        "city": "CANAKKALE",
+        "district": "Eceabat"
+    },
+    {
+        "id": "10592",
+        "name": "İmam Birgivi Mezarı",
+        "lat": 38.2622,
+        "lon": 28.0702,
+        "category": "monument",
+        "city": "IZMIR",
+        "district": "Ödemiş"
+    },
+    {
+        "id": "10593",
+        "name": "Abdurrahman Bistâmî Kabri",
+        "lat": 40.1828995,
+        "lon": 29.0570621,
+        "category": "monument",
+        "city": "BURSA",
+        "district": "Osmangazi"
+    },
+    {
+        "id": "10595",
+        "name": "Abdullah El Ensari Hazretleri Kabri",
+        "lat": 41.033305,
+        "lon": 28.944319,
+        "category": "monument",
+        "city": "ISTANBUL",
+        "district": "Fatih"
+    },
+    {
+        "id": "10596",
+        "name": "Tezveren Dede Türbesi, Çatalca",
+        "lat": 41.141106236,
+        "lon": 28.465395082,
+        "category": "monument",
+        "city": "ISTANBUL",
+        "district": "Çatalca"
+    },
+    {
+        "id": "10598",
+        "name": "Hadım Baba Kabri",
+        "lat": 41.157209881,
+        "lon": 28.618155905,
+        "category": "monument",
+        "city": "ISTANBUL",
+        "district": "Arnavutköy"
+    },
+    {
+        "id": "10599",
+        "name": "Karyağdı Baba Kabri",
+        "lat": 41.054854431,
+        "lon": 28.933904669,
+        "category": "monument",
+        "city": "ISTANBUL",
+        "district": "Eyüpsultan"
+    },
+    {
+        "id": "1060",
+        "name": "Sunken minaret",
+        "name_en": "Sunken minaret",
+        "lat": 37.2458494,
+        "lon": 37.8676115,
+        "category": "other",
+        "city": "ŞANLIURFA",
+        "district": "Halfeti"
+    },
+    {
+        "id": "10600",
+        "name": "Kabir, Küçük Ayasofya",
+        "lat": 41.0059433,
+        "lon": 28.970787,
+        "category": "monument",
+        "city": "ISTANBUL",
+        "district": "Fatih"
+    },
+    {
+        "id": "10601",
+        "name": "Cemile Sultan’ın Kabri",
+        "lat": 41.0265198,
+        "lon": 28.9518089,
+        "category": "monument",
+        "city": "ISTANBUL",
+        "district": "Fatih"
+    },
+    {
+        "id": "10602",
+        "name": "Yedi Sekiz Hasan Paşa Kabri",
+        "lat": 41.0466156,
+        "lon": 29.0180607,
+        "category": "monument",
+        "city": "ISTANBUL",
+        "district": "Beşiktaş"
+    },
+    {
+        "id": "10604",
+        "name": "Şahkulu Mehmet Efendi Kabri",
+        "lat": 41.0273857,
+        "lon": 28.9743423,
+        "category": "monument",
+        "city": "ISTANBUL",
+        "district": "Beyoğlu"
+    },
+    {
+        "id": "10605",
+        "name": "Elvan Hazretleri Kabri",
+        "lat": 41.0255203,
+        "lon": 28.954586,
+        "category": "monument",
+        "city": "ISTANBUL",
+        "district": "Fatih"
+    },
+    {
+        "id": "10609",
+        "name": "Osman Bey Kabri",
+        "lat": 41.0266762,
+        "lon": 29.0158253,
+        "category": "monument",
+        "city": "ISTANBUL",
+        "district": "Üsküdar"
+    },
+    {
+        "id": "1061",
+        "name": "Yeralti Sehir-2",
+        "lat": 38.2758481,
+        "lon": 34.3720673,
+        "category": "other",
+        "city": "AKSARAY",
+        "district": "Güzelyurt"
+    },
+    {
+        "id": "10610",
+        "name": "Selman Ağa Kabri",
+        "lat": 41.0256958,
+        "lon": 29.0158749,
+        "category": "monument",
+        "city": "ISTANBUL",
+        "district": "Üsküdar"
+    },
+    {
+        "id": "10611",
+        "name": "Ahmet Dede Kabri, Eyüp",
+        "lat": 41.046608,
+        "lon": 28.923821,
+        "category": "monument",
+        "city": "ISTANBUL",
+        "district": "Eyüpsultan"
+    },
+    {
+        "id": "10613",
+        "name": "İskender Çelebi Kabri",
+        "lat": 41.0029831,
+        "lon": 28.9252853,
+        "category": "monument",
+        "city": "ISTANBUL",
+        "district": "Fatih"
+    },
+    {
+        "id": "10614",
+        "name": "İmam Hüsrev Baba Kabri",
+        "lat": 41.0392799,
+        "lon": 28.9679565,
+        "category": "monument",
+        "city": "ISTANBUL",
+        "district": "Beyoğlu"
+    },
+    {
+        "id": "10615",
+        "name": "Karabali Mehmet Baba Kabri",
+        "lat": 41.0371056,
+        "lon": 28.9951839,
+        "category": "monument",
+        "city": "ISTANBUL",
+        "district": "Beyoğlu"
+    },
+    {
+        "id": "10617",
+        "name": "Kangelaris Ailesi Anıt Mezarı",
+        "lat": 40.872539446,
+        "lon": 29.098788051,
+        "category": "monument",
+        "city": "ISTANBUL",
+        "district": "Prince Islands"
+    },
+    {
+        "id": "10619",
+        "name": "Tezveren Dede Kabri, Rumelihisarı",
+        "lat": 41.0882111,
+        "lon": 29.055336,
+        "category": "monument",
+        "city": "ISTANBUL",
+        "district": "Sarıyer"
+    },
+    {
+        "id": "10620",
+        "name": "Laleli Baba Makam Kabri",
+        "lat": 41.0097046,
+        "lon": 28.9557819,
+        "category": "monument",
+        "city": "ISTANBUL",
+        "district": "Fatih"
+    },
+    {
+        "id": "10621",
+        "name": "İbrahim Müteferrika Kabri",
+        "lat": 41.0284767,
+        "lon": 28.9747772,
+        "category": "monument",
+        "city": "ISTANBUL",
+        "district": "Beyoğlu"
+    },
+    {
+        "id": "10623",
+        "name": "İvaz Fakih Türbesi",
+        "lat": 41.027542,
+        "lon": 29.069275,
+        "category": "tomb",
+        "city": "ISTANBUL",
+        "district": "Üsküdar"
+    },
+    {
+        "id": "10624",
+        "name": "Şehit Baba Türbesi, Anadolufeneri",
+        "lat": 41.21772,
+        "lon": 29.1540184,
+        "category": "monument",
+        "city": "ISTANBUL",
+        "district": "Beykoz"
+    },
+    {
+        "id": "10626",
+        "name": "Şeyh Arif Efendi Türbesi",
+        "lat": 41.0185051,
+        "lon": 28.9426289,
+        "category": "tomb",
+        "city": "ISTANBUL",
+        "district": "Fatih"
+    },
+    {
+        "id": "10628",
+        "name": "Burhan Felek Kabri, Üsküdar",
+        "lat": 41.0137138,
+        "lon": 29.0170345,
+        "category": "monument",
+        "city": "ISTANBUL",
+        "district": "Üsküdar"
+    },
+    {
+        "id": "10629",
+        "name": "Salih Dede Türbesi",
+        "lat": 41.0150604,
+        "lon": 29.0125599,
+        "category": "tomb",
+        "city": "ISTANBUL",
+        "district": "Üsküdar"
+    },
+    {
+        "id": "10631",
+        "name": "Düğümlü Baba Kabri",
+        "lat": 41.006928164,
+        "lon": 28.976955261,
+        "category": "monument",
+        "city": "ISTANBUL",
+        "district": "Fatih"
+    },
+    {
+        "id": "10632",
+        "name": "Hüseyin Baba Kabri, Zeynepkamil",
+        "lat": 41.0172768,
+        "lon": 29.021183,
+        "category": "monument",
+        "city": "ISTANBUL",
+        "district": "Üsküdar"
+    },
+    {
+        "id": "10633",
+        "name": "Balcı Baba Türbesi",
+        "lat": 41.0170746,
+        "lon": 29.0210724,
+        "category": "tomb",
+        "city": "ISTANBUL",
+        "district": "Üsküdar"
+    },
+    {
+        "id": "10634",
+        "name": "Evliya Hoca Türbesi, Üsküdar",
+        "lat": 41.0225258,
+        "lon": 29.0183735,
+        "category": "monument",
+        "city": "ISTANBUL",
+        "district": "Üsküdar"
+    },
+    {
+        "id": "10635",
+        "name": "İsmail Rumi Hazretleri Türbesi",
+        "lat": 41.0297432,
+        "lon": 28.9811192,
+        "category": "tomb",
+        "city": "ISTANBUL",
+        "district": "Beyoğlu"
+    },
+    {
+        "id": "10636",
+        "name": "Şeyh Bedreddin Kabri",
+        "lat": 41.0087204,
+        "lon": 28.9726944,
+        "category": "monument",
+        "city": "ISTANBUL",
+        "district": "Fatih"
+    },
+    {
+        "id": "10637",
+        "name": "Bostan Dede Türbesi",
+        "lat": 41.0520897,
+        "lon": 28.9296646,
+        "category": "tomb",
+        "city": "ISTANBUL",
+        "district": "Eyüpsultan"
+    },
+    {
+        "id": "10638",
+        "name": "Sıdıka Hatun Kabri",
+        "lat": 41.0034294,
+        "lon": 28.9285355,
+        "category": "monument",
+        "city": "ISTANBUL",
+        "district": "Fatih"
+    },
+    {
+        "id": "10640",
+        "name": "Şahkulu Sultan Türbesi",
+        "lat": 40.989063111,
+        "lon": 29.075194995,
+        "category": "tomb",
+        "city": "ISTANBUL",
+        "district": "Kadıköy"
+    },
+    {
+        "id": "10641",
+        "name": "Seyit Ali Baba Türbesi",
+        "lat": 40.9876137,
+        "lon": 29.0768795,
+        "category": "tomb",
+        "city": "ISTANBUL",
+        "district": "Kadıköy"
+    },
+    {
+        "id": "10642",
+        "name": "Buhur Baba Türbesi",
+        "lat": 40.989254,
+        "lon": 29.0789013,
+        "category": "tomb",
+        "city": "ISTANBUL",
+        "district": "Kadıköy"
+    },
+    {
+        "id": "10643",
+        "name": "Ömer Dede Türbesi, Üsküdar",
+        "lat": 41.0170631,
+        "lon": 29.0276527,
+        "category": "monument",
+        "city": "ISTANBUL",
+        "district": "Üsküdar"
+    },
+    {
+        "id": "10644",
+        "name": "Yusuf Sinaneddin-i Sineçak Efendi Kabri",
+        "lat": 41.0488129,
+        "lon": 28.9414349,
+        "category": "monument",
+        "city": "ISTANBUL",
+        "district": "Beyoğlu"
+    },
+    {
+        "id": "10645",
+        "name": "Şehit Mehmet Pehlivan Türbesi",
+        "lat": 41.0324707,
+        "lon": 28.9705219,
+        "category": "tomb",
+        "city": "ISTANBUL",
+        "district": "Beyoğlu"
+    },
+    {
+        "id": "10647",
+        "name": "Gülşirin Daye Hatun Kabri",
+        "lat": 41.041069,
+        "lon": 28.9354324,
+        "category": "monument",
+        "city": "ISTANBUL",
+        "district": "Eyüpsultan"
+    },
+    {
+        "id": "10648",
+        "name": "Bayburtlu Ömer Paşa Türbesi",
+        "lat": 41.0459976,
+        "lon": 28.9239597,
+        "category": "tomb",
+        "city": "ISTANBUL",
+        "district": "Eyüpsultan"
+    },
+    {
+        "id": "10649",
+        "name": "Abdullah Dede Türbesi",
+        "lat": 41.0038567,
+        "lon": 28.9269047,
+        "category": "tomb",
+        "city": "ISTANBUL",
+        "district": "Fatih"
+    },
+    {
+        "id": "10652",
+        "name": "Zekeriya Baba Türbesi",
+        "lat": 41.196991,
+        "lon": 29.0284519,
+        "category": "tomb",
+        "city": "ISTANBUL",
+        "district": "Sarıyer"
+    },
+    {
+        "id": "10653",
+        "name": "Karabaş Hazretleri Türbesi",
+        "lat": 41.0271797,
+        "lon": 28.9803371,
+        "category": "tomb",
+        "city": "ISTANBUL",
+        "district": "Beyoğlu"
+    },
+    {
+        "id": "10654",
+        "name": "İzmirli Ali Paşa Türbesi",
+        "lat": 41.0192795,
+        "lon": 29.0120029,
+        "category": "tomb",
+        "city": "ISTANBUL",
+        "district": "Üsküdar"
+    },
+    {
+        "id": "10655",
+        "name": "Selamsız Baba Kabri",
+        "lat": 41.0236893,
+        "lon": 29.0294437,
+        "category": "monument",
+        "city": "ISTANBUL",
+        "district": "Üsküdar"
+    },
+    {
+        "id": "10657",
+        "name": "Tezveren Dede Kabri, Katip Kasım",
+        "lat": 41.0068817,
+        "lon": 28.9572563,
+        "category": "monument",
+        "city": "ISTANBUL",
+        "district": "Fatih"
+    },
+    {
+        "id": "10658",
+        "name": "Emete Hatun Kabri",
+        "lat": 41.0203705,
+        "lon": 28.9286919,
+        "category": "monument",
+        "city": "ISTANBUL",
+        "district": "Fatih"
+    },
+    {
+        "id": "10660",
+        "name": "Seyyit Ali Efendi Kabri",
+        "lat": 41.018177163,
+        "lon": 28.965332179,
+        "category": "monument",
+        "city": "ISTANBUL",
+        "district": "Fatih"
+    },
+    {
+        "id": "10661",
+        "name": "Nevres Ağa Kabri",
+        "lat": 41.0191956,
+        "lon": 28.9579067,
+        "category": "monument",
+        "city": "ISTANBUL",
+        "district": "Fatih"
+    },
+    {
+        "id": "10662",
+        "name": "Buhûrîzâde Mustafa Itrî Kabri",
+        "lat": 41.034542,
+        "lon": 28.933258,
+        "category": "monument",
+        "city": "ISTANBUL",
+        "district": "Eyüpsultan"
+    },
+    {
+        "id": "10663",
+        "name": "Ertuğrul Gazi Türbesi",
+        "lat": 40.0255,
+        "lon": 30.1794,
+        "category": "tomb",
+        "city": "BILECIK",
+        "district": "Söğüt"
+    },
+    {
+        "id": "10665",
+        "name": "Asılhan Bey Mezarı",
+        "lat": 39.7639959,
+        "lon": 26.234220264,
+        "category": "monument",
+        "city": "CANAKKALE",
+        "district": "Ezine"
+    },
+    {
+        "id": "10668",
+        "name": "Çiçeklidede Mustafa Münip Efendi Mezarı",
+        "lat": 40.2210808,
+        "lon": 27.2411652,
+        "category": "monument",
+        "city": "CANAKKALE",
+        "district": "Biga"
+    },
+    {
+        "id": "1067",
+        "name": "Antakya Uzun Çarşı",
+        "lat": 36.2027447,
+        "lon": 36.1628646,
+        "category": "other",
+        "city": "HATAY",
+        "district": "Antakya"
+    },
+    {
+        "id": "10670",
+        "name": "Demirci Şeyh Timuri Kabri",
+        "lat": 40.8149757,
+        "lon": 32.8951111,
+        "category": "monument",
+        "city": "ÇANKIRI",
+        "district": "Çerkeş"
+    },
+    {
+        "id": "10671",
+        "name": "Şeyh Veled Kabri",
+        "lat": 40.8129158,
+        "lon": 32.8856277,
+        "category": "monument",
+        "city": "ÇANKIRI",
+        "district": "Çerkeş"
+    },
+    {
+        "id": "10672",
+        "name": "Nene Hatun Kabri",
+        "lat": 39.914135,
+        "lon": 41.3091316,
+        "category": "monument",
+        "city": "ERZURUM",
+        "district": "Yakutiye"
+    },
+    {
+        "id": "10674",
+        "name": "Hatit Demirlibaba Kabri",
+        "lat": 40.0101967,
+        "lon": 32.8358078,
+        "category": "monument",
+        "city": "ANKARA",
+        "district": "Keçiören"
+    },
+    {
+        "id": "10679",
+        "name": "Kabir - Hacı Bayram, Eskicioğlu Sokak",
+        "lat": 39.9351807,
+        "lon": 32.8597374,
+        "category": "monument",
+        "city": "ANKARA",
+        "district": "Altındağ"
+    },
+    {
+        "id": "10680",
+        "name": "Ali Şükrü Bey Kabri",
+        "lat": 40.9976883,
+        "lon": 39.7323532,
+        "category": "monument",
+        "city": "TRABZON",
+        "district": "Ortahisar"
+    },
+    {
+        "id": "10681",
+        "name": "Kabir (Kığılı Camii)",
+        "lat": 37.9682121,
+        "lon": 34.6779099,
+        "category": "monument",
+        "city": "NIĞDE",
+        "district": "Niğde (merkez)"
+    },
+    {
+        "id": "10682",
+        "name": "Ziya Paşa Kabri",
+        "lat": 36.984430518,
+        "lon": 35.330882166,
+        "category": "monument",
+        "city": "ADANA",
+        "district": "Seyhan"
+    },
+    {
+        "id": "10684",
+        "name": "Musa Fakih Efendi Kabri",
+        "lat": 41.3740349,
+        "lon": 33.7674179,
+        "category": "monument",
+        "city": "KASTAMONU",
+        "district": "Kastamonu merkez"
+    },
+    {
+        "id": "10685",
+        "name": "Nasrullah Kadı Kabri",
+        "lat": 41.3774681,
+        "lon": 33.775135,
+        "category": "monument",
+        "city": "KASTAMONU",
+        "district": "Kastamonu merkez"
+    },
+    {
+        "id": "10686",
+        "name": "Şehit Şerife Bacı Gıyabi Kabri",
+        "lat": 41.6242714,
+        "lon": 33.7170029,
+        "category": "monument",
+        "city": "KASTAMONU",
+        "district": "Seydiler"
+    },
+    {
+        "id": "10688",
+        "name": "Ertuğrul Bey Kabri",
+        "lat": 40.1855812,
+        "lon": 29.0629578,
+        "category": "monument",
+        "city": "BURSA",
+        "district": "Osmangazi"
+    },
+    {
+        "id": "10691",
+        "name": "Sefer Şah Kabri",
+        "lat": 39.7866516,
+        "lon": 26.3366814,
+        "category": "monument",
+        "city": "CANAKKALE",
+        "district": "Ezine"
+    },
+    {
+        "id": "10693",
+        "name": "Namık Kemal Kabri",
+        "lat": 40.5159912,
+        "lon": 26.7559471,
+        "category": "monument",
+        "city": "CANAKKALE",
+        "district": "Gelibolu"
+    },
+    {
+        "id": "10695",
+        "name": "Şıh Salih Makamı",
+        "lat": 36.7994232,
+        "lon": 34.6248398,
+        "category": "monument",
+        "city": "MERSIN",
+        "district": "Akdeniz"
+    },
+    {
+        "id": "10696",
+        "name": "Şeyh Kara Mustafa Türbesi",
+        "lat": 40.3865738,
+        "lon": 33.6345482,
+        "category": "tomb",
+        "city": "ÇANKIRI",
+        "district": "Çankırı merkez"
+    },
+    {
+        "id": "10698",
+        "name": "Mehmed Nakşî Çelebi Kabri",
+        "lat": 40.1815338,
+        "lon": 29.0711231,
+        "category": "monument",
+        "city": "BURSA",
+        "district": "Yıldırım"
+    },
+    {
+        "id": "10699",
+        "name": "Hasan Can Kabri",
+        "lat": 40.1816635,
+        "lon": 29.074604,
+        "category": "monument",
+        "city": "BURSA",
+        "district": "Yıldırım"
+    },
+    {
+        "id": "107",
+        "name": "Abdulmecit Efendi Köşkü",
+        "lat": 41.0282408,
+        "lon": 29.0415462,
+        "category": "museum",
+        "city": "ISTANBUL",
+        "district": "Üsküdar"
+    },
+    {
+        "id": "10700",
+        "name": "Hacı İvaz Bey Kabri",
+        "lat": 40.1836967,
+        "lon": 29.0624695,
+        "category": "monument",
+        "city": "BURSA",
+        "district": "Osmangazi"
+    },
+    {
+        "id": "10701",
+        "name": "Helvacı Acele Bacı Türbesi",
+        "lat": 40.1826477,
+        "lon": 29.0592461,
+        "category": "tomb",
+        "city": "BURSA",
+        "district": "Osmangazi"
+    },
+    {
+        "id": "10705",
+        "name": "Mütercim Mehmed Rüşdi Paşa Kabri",
+        "lat": 38.61283235,
+        "lon": 27.433891008,
+        "category": "monument",
+        "city": "MANISA",
+        "district": "Şehzadeler"
+    },
+    {
+        "id": "10707",
+        "name": "Molla Hüsrev Kabri",
+        "lat": 40.1807709,
+        "lon": 29.0836372,
+        "category": "monument",
+        "city": "BURSA",
+        "district": "Yıldırım"
+    },
+    {
+        "id": "10708",
+        "name": "Susuz Dede Kabri",
+        "lat": 38.3993263,
+        "lon": 27.0935669,
+        "category": "monument",
+        "city": "IZMIR",
+        "district": "Konak"
+    },
+    {
+        "id": "10710",
+        "name": "Abdullah-ı Bosnavi Kabri",
+        "lat": 37.869164,
+        "lon": 32.48306,
+        "category": "monument",
+        "city": "KONYA",
+        "district": "Meram"
+    },
+    {
+        "id": "10712",
+        "name": "Kara Davut Kabri",
+        "lat": 40.18149,
+        "lon": 29.086271,
+        "category": "monument",
+        "city": "BURSA",
+        "district": "Yıldırım"
+    },
+    {
+        "id": "10713",
+        "name": "Kayhan Kabri",
+        "lat": 40.18369,
+        "lon": 29.070413,
+        "category": "monument",
+        "city": "BURSA",
+        "district": "Osmangazi"
+    },
+    {
+        "id": "10715",
+        "name": "Gül Baba Kabri",
+        "lat": 39.945,
+        "lon": 32.8596,
+        "category": "monument",
+        "city": "ANKARA",
+        "district": "Altındağ"
+    },
+    {
+        "id": "10716",
+        "name": "Dayı Karacabey Kabri",
+        "lat": 40.2240982,
+        "lon": 28.3641834,
+        "category": "monument",
+        "city": "BURSA",
+        "district": "Karacabey"
+    },
+    {
+        "id": "10717",
+        "name": "Abdurrahimi Merzifoni Kabri",
+        "lat": 40.8741722,
+        "lon": 35.4602165,
+        "category": "monument",
+        "city": "AMASYA",
+        "district": "Merzifon"
+    },
+    {
+        "id": "10719",
+        "name": "Melik Mahmut Gazi Kabri",
+        "lat": 38.374856,
+        "lon": 34.040192,
+        "category": "monument",
+        "city": "AKSARAY",
+        "district": "Aksaray merkez"
+    },
+    {
+        "id": "10720",
+        "name": "Köpüklü Dede Kabri",
+        "lat": 40.185069,
+        "lon": 29.0571509,
+        "category": "monument",
+        "city": "BURSA",
+        "district": "Osmangazi"
+    },
+    {
+        "id": "10722",
+        "name": "Sarnıççı Baba Kabri",
+        "lat": 41.0385857,
+        "lon": 28.9628716,
+        "category": "monument",
+        "city": "ISTANBUL",
+        "district": "Beyoğlu"
+    },
+    {
+        "id": "10723",
+        "name": "Kazancı Baba Kabri",
+        "lat": 41.0356674,
+        "lon": 28.9858189,
+        "category": "monument",
+        "city": "ISTANBUL",
+        "district": "Beyoğlu"
+    },
+    {
+        "id": "10724",
+        "name": "Ahmet Paşa Kabri",
+        "lat": 41.0352478,
+        "lon": 28.9859333,
+        "category": "monument",
+        "city": "ISTANBUL",
+        "district": "Beyoğlu"
+    },
+    {
+        "id": "10725",
+        "name": "Mah Baba Gül Baba Kabri",
+        "lat": 40.9880219,
+        "lon": 29.0737038,
+        "category": "monument",
+        "city": "ISTANBUL",
+        "district": "Kadıköy"
+    },
+    {
+        "id": "10726",
+        "name": "Ali Gazi Baba Hazretleri Türbesi",
+        "lat": 40.9761391,
+        "lon": 29.1030006,
+        "category": "tomb",
+        "city": "ISTANBUL",
+        "district": "Ataşehir"
+    },
+    {
+        "id": "10727",
+        "name": "Adilşah Kadın Kabri",
+        "lat": 41.0098619,
+        "lon": 28.9560105,
+        "category": "monument",
+        "city": "ISTANBUL",
+        "district": "Fatih"
+    },
+    {
+        "id": "10729",
+        "name": "Ziya Gökalp’in Mezarı",
+        "lat": 41.0086872,
+        "lon": 28.9728528,
+        "category": "monument",
+        "city": "ISTANBUL",
+        "district": "Fatih"
+    },
+    {
+        "id": "10731",
+        "name": "Taşçı Dede Kabri",
+        "lat": 41.02752,
+        "lon": 28.937357,
+        "category": "monument",
+        "city": "ISTANBUL",
+        "district": "Fatih"
+    },
+    {
+        "id": "10732",
+        "name": "Laleli Baba Kabri",
+        "lat": 41.011586834,
+        "lon": 28.955267472,
+        "category": "monument",
+        "city": "ISTANBUL",
+        "district": "Fatih"
+    },
+    {
+        "id": "10733",
+        "name": "Hüsam İbni Abdullah Kabri",
+        "lat": 41.031469793,
+        "lon": 28.94071646,
+        "category": "monument",
+        "city": "ISTANBUL",
+        "district": "Fatih"
+    },
+    {
+        "id": "10734",
+        "name": "Dökümcü Gül Baba Kabri",
+        "lat": 41.046838,
+        "lon": 28.926525,
+        "category": "monument",
+        "city": "ISTANBUL",
+        "district": "Eyüpsultan"
+    },
+    {
+        "id": "10735",
+        "name": "Ayas Mehmet Paşa Türbesi",
+        "lat": 41.048311,
+        "lon": 28.933656,
+        "category": "tomb",
+        "city": "ISTANBUL",
+        "district": "Eyüpsultan"
+    },
+    {
+        "id": "10736",
+        "name": "Zuhurat Baba Türbesi",
+        "lat": 40.982305,
+        "lon": 28.867704,
+        "category": "tomb",
+        "city": "ISTANBUL",
+        "district": "Bakırköy"
+    },
+    {
+        "id": "10737",
+        "name": "Vani Ahmed Efendi Türbesi",
+        "lat": 41.00825,
+        "lon": 28.928706,
+        "category": "tomb",
+        "city": "ISTANBUL",
+        "district": "Fatih"
+    },
+    {
+        "id": "10738",
+        "name": "Şeyh Abdulbaki Efendi Kabri",
+        "lat": 41.039244,
+        "lon": 28.931814,
+        "category": "monument",
+        "city": "ISTANBUL",
+        "district": "Eyüpsultan"
+    },
+    {
+        "id": "10739",
+        "name": "Seyyid Eşrefzade Pir Muhammed Kabri",
+        "lat": 41.019,
+        "lon": 28.957532,
+        "category": "monument",
+        "city": "ISTANBUL",
+        "district": "Fatih"
+    },
+    {
+        "id": "10741",
+        "name": "Selahaddin Uşşaki Kabri",
+        "lat": 41.023688,
+        "lon": 28.955311,
+        "category": "monument",
+        "city": "ISTANBUL",
+        "district": "Fatih"
+    },
+    {
+        "id": "10742",
+        "name": "Sefer Dede Kabri",
+        "lat": 41.02158,
+        "lon": 28.961996,
+        "category": "monument",
+        "city": "ISTANBUL",
+        "district": "Fatih"
+    },
+    {
+        "id": "10743",
+        "name": "Sarı Saltuk Türbesi, Rumelifeneri",
+        "lat": 41.234181,
+        "lon": 29.112258,
+        "category": "monument",
+        "city": "ISTANBUL",
+        "district": "Sarıyer"
+    },
+    {
+        "id": "10745",
+        "name": "Oruç Baba Türbesi",
+        "lat": 41.01817,
+        "lon": 28.93016,
+        "category": "tomb",
+        "city": "ISTANBUL",
+        "district": "Fatih"
+    },
+    {
+        "id": "10746",
+        "name": "Molla Fenai Türbesi",
+        "lat": 41.010491,
+        "lon": 28.938082,
+        "category": "tomb",
+        "city": "ISTANBUL",
+        "district": "Fatih"
+    },
+    {
+        "id": "10747",
+        "name": "Koyun Baba Türbesi, İstanbul",
+        "lat": 41.0212,
+        "lon": 28.9438,
+        "category": "monument",
+        "city": "ISTANBUL",
+        "district": "Fatih"
+    },
+    {
+        "id": "10748",
+        "name": "Kovacı Dede Kabri",
+        "lat": 41.025536,
+        "lon": 28.948247,
+        "category": "monument",
+        "city": "ISTANBUL",
+        "district": "Fatih"
+    },
+    {
+        "id": "10750",
+        "name": "Hz. Şube Türbesi",
+        "lat": 41.035247,
+        "lon": 28.939941,
+        "category": "tomb",
+        "city": "ISTANBUL",
+        "district": "Fatih"
+    },
+    {
+        "id": "10751",
+        "name": "Mesleme Bin Abdülmelik Kabri",
+        "lat": 41.024283,
+        "lon": 28.97136,
+        "category": "monument",
+        "city": "ISTANBUL",
+        "district": "Beyoğlu"
+    },
+    {
+        "id": "10753",
+        "name": "Hz. Cafer Bin Abdullah El Ensari Türbesi",
+        "lat": 41.031709,
+        "lon": 28.941889,
+        "category": "tomb",
+        "city": "ISTANBUL",
+        "district": "Fatih"
+    },
+    {
+        "id": "10754",
+        "name": "Helvai Yakup Efendi Türbesi",
+        "lat": 41.012888,
+        "lon": 28.961142,
+        "category": "tomb",
+        "city": "ISTANBUL",
+        "district": "Fatih"
+    },
+    {
+        "id": "10755",
+        "name": "Gül Baba Türbesi, Burhaniye",
+        "lat": 41.02907645,
+        "lon": 29.047544507,
+        "category": "monument",
+        "city": "ISTANBUL",
+        "district": "Üsküdar"
+    },
+    {
+        "id": "10756",
+        "name": "Gözcü Baba Türbesi",
+        "lat": 40.9869461,
+        "lon": 29.0701885,
+        "category": "tomb",
+        "city": "ISTANBUL",
+        "district": "Kadıköy"
+    },
+    {
+        "id": "10758",
+        "name": "Hz. Yuşa Türbesi",
+        "lat": 41.162260021,
+        "lon": 29.084795258,
+        "category": "tomb",
+        "city": "ISTANBUL",
+        "district": "Beykoz"
+    },
+    {
+        "id": "10761",
+        "name": "Atatürk Maskı",
+        "lat": 36.952833333,
+        "lon": 30.632638888,
+        "category": "monument",
+        "city": "ANTALYA",
+        "district": "Kepez"
+    },
+    {
+        "id": "10766",
+        "name": "Yukarı Mezra Harabeleri",
+        "lat": 37.427291465,
+        "lon": 40.252840754,
+        "category": "monument",
+        "city": "MARDIN",
+        "district": "Derik"
+    },
+    {
+        "id": "10771",
+        "name": "Sarpdere Çiftlik Altı Yerleşimi",
+        "lat": 39.693442949,
+        "lon": 26.335712136,
+        "category": "monument",
+        "city": "CANAKKALE",
+        "district": "Ezine"
+    },
+    {
+        "id": "10795",
+        "name": "Ektirli Arkeolojik Yerleşimi",
+        "lat": 37.609998183,
+        "lon": 27.838806711,
+        "category": "monument",
+        "city": "AYDIN",
+        "district": "Karpuzlu"
+    },
+    {
+        "id": "10808",
+        "name": "Kavaklıtepe Köyü Bizans Yerleşimi",
+        "lat": 40.4313927,
+        "lon": 26.6150093,
+        "category": "monument",
+        "city": "CANAKKALE",
+        "district": "Gelibolu"
+    },
+    {
+        "id": "10809",
+        "name": "Üvecik Bizans Yerleşimi",
+        "lat": 39.8778458,
+        "lon": 26.206562,
+        "category": "monument",
+        "city": "CANAKKALE",
+        "district": "Ezine"
+    },
+    {
+        "id": "10814",
+        "name": "Yeniköy Geç Osmanlı Yerleşimi",
+        "lat": 40.4706917,
+        "lon": 26.598629,
+        "category": "monument",
+        "city": "CANAKKALE",
+        "district": "Gelibolu"
+    },
+    {
+        "id": "10822",
+        "name": "Fındıklı Köyü Yerleşimi",
+        "lat": 40.4357147,
+        "lon": 26.5464573,
+        "category": "monument",
+        "city": "CANAKKALE",
+        "district": "Gelibolu"
+    },
+    {
+        "id": "10823",
+        "name": "Araovacık Köyü Roma Yerleşimi",
+        "lat": 39.9007034,
+        "lon": 27.4917259,
+        "category": "monument",
+        "city": "CANAKKALE",
+        "district": "Yenice"
+    },
+    {
+        "id": "10824",
+        "name": "Kemel Köyü Yerleşimi",
+        "lat": 40.1507454,
+        "lon": 26.5107594,
+        "category": "monument",
+        "city": "CANAKKALE",
+        "district": "Çanakkale merkez"
+    },
+    {
+        "id": "10829",
+        "name": "Kamış Adası Kırsal Yerleşimi",
+        "lat": 39.3404846,
+        "lon": 26.5776939,
+        "category": "monument",
+        "city": "BALIKESIR",
+        "district": "Ayvalık"
+    },
+    {
+        "id": "10831",
+        "name": "Gökkaya Yerleşimi",
+        "lat": 36.2125969,
+        "lon": 29.8886909,
+        "category": "monument",
+        "city": "ANTALYA",
+        "district": "Demre"
+    },
+    {
+        "id": "10832",
+        "name": "Karagümrük Gül Baba Türbesi",
+        "lat": 41.024881,
+        "lon": 28.93639,
+        "category": "tomb",
+        "city": "ISTANBUL",
+        "district": "Fatih"
+    },
+    {
+        "id": "10834",
+        "name": "Mehmet Ağa Sebili",
+        "lat": 41.0094376,
+        "lon": 28.966465,
+        "category": "monument",
+        "city": "ISTANBUL",
+        "district": "Fatih"
+    },
+    {
+        "id": "10835",
+        "name": "Mehmet Emin Ağa Sebili",
+        "lat": 41.0371742,
+        "lon": 28.9947014,
+        "category": "monument",
+        "city": "ISTANBUL",
+        "district": "Beyoğlu"
+    },
+    {
+        "id": "10836",
+        "name": "Mehmet Emin Ağa Sebili Haziresi",
+        "lat": 41.037138888,
+        "lon": 28.994805555,
+        "category": "monument",
+        "city": "ISTANBUL",
+        "district": "Beyoğlu"
+    },
+    {
+        "id": "10837",
+        "name": "Seyyid Hasan Paşa Külliyesi",
+        "lat": 41.010428,
+        "lon": 28.96135,
+        "category": "monument",
+        "city": "ISTANBUL",
+        "district": "Fatih"
+    },
+    {
+        "id": "10838",
+        "name": "Abdülhamid I Sebili",
+        "lat": 41.010412,
+        "lon": 28.978656,
+        "category": "monument",
+        "city": "ISTANBUL",
+        "district": "Fatih"
+    },
+    {
+        "id": "10840",
+        "name": "Beşir Ağa Sebili, Eyüp Sultan",
+        "lat": 41.0480881,
+        "lon": 28.9333744,
+        "category": "monument",
+        "city": "ISTANBUL",
+        "district": "Eyüpsultan"
+    },
+    {
+        "id": "10842",
+        "name": "Sultan Ahmet Külliyesi Sebili 7",
+        "lat": 41.0068741,
+        "lon": 28.977354,
+        "category": "monument",
+        "city": "ISTANBUL",
+        "district": "Fatih"
+    },
+    {
+        "id": "10843",
+        "name": "Sultan Ahmet Külliyesi Sebili 5",
+        "lat": 41.0071373,
+        "lon": 28.9771442,
+        "category": "monument",
+        "city": "ISTANBUL",
+        "district": "Fatih"
+    },
+    {
+        "id": "10844",
+        "name": "Sultan Ahmet Külliyesi Sebili 2",
+        "lat": 41.0054245,
+        "lon": 28.9754257,
+        "category": "monument",
+        "city": "ISTANBUL",
+        "district": "Fatih"
+    },
+    {
+        "id": "10845",
+        "name": "Kapalıçarşı Hacı Beşir Ağa Sebili",
+        "lat": 41.0115547,
+        "lon": 28.9682541,
+        "category": "monument",
+        "city": "ISTANBUL",
+        "district": "Fatih"
+    },
+    {
+        "id": "10846",
+        "name": "Şekerpare Kadın Sebili",
+        "lat": 41.0475197,
+        "lon": 28.935463,
+        "category": "monument",
+        "city": "ISTANBUL",
+        "district": "Eyüpsultan"
+    },
+    {
+        "id": "10847",
+        "name": "Cerrah Osman Efendi Sebili",
+        "lat": 41.0201378,
+        "lon": 28.9443913,
+        "category": "monument",
+        "city": "ISTANBUL",
+        "district": "Fatih"
+    },
+    {
+        "id": "10848",
+        "name": "Sultan Ahmet Külliyesi Sebili 6",
+        "lat": 41.0069466,
+        "lon": 28.9769592,
+        "category": "monument",
+        "city": "ISTANBUL",
+        "district": "Fatih"
+    },
+    {
+        "id": "10850",
+        "name": "Vefa Kilise Camii Sebili",
+        "lat": 41.0161934,
+        "lon": 28.9602032,
+        "category": "monument",
+        "city": "ISTANBUL",
+        "district": "Fatih"
+    },
+    {
+        "id": "10851",
+        "name": "Topkapı Sarayı Su Kültürü Açık Teşhiri",
+        "lat": 41.0108719,
+        "lon": 28.9829273,
+        "category": "monument",
+        "city": "ISTANBUL",
+        "district": "Fatih"
+    },
+    {
+        "id": "10853",
+        "name": "Sultan Ahmet Külliyesi Sebili 4",
+        "lat": 41.0044136,
+        "lon": 28.9764881,
+        "category": "monument",
+        "city": "ISTANBUL",
+        "district": "Fatih"
+    },
+    {
+        "id": "10854",
+        "name": "Ziya Bey Sebili",
+        "lat": 41.0132294,
+        "lon": 29.0198975,
+        "category": "monument",
+        "city": "ISTANBUL",
+        "district": "Üsküdar"
+    },
+    {
+        "id": "10855",
+        "name": "Hacı Hüseyin Hayri Paşa Sebili",
+        "lat": 41.0079536,
+        "lon": 29.023159,
+        "category": "monument",
+        "city": "ISTANBUL",
+        "district": "Üsküdar"
+    },
+    {
+        "id": "10858",
+        "name": "Zeynep Sultan Sebili",
+        "lat": 41.0102348,
+        "lon": 28.9785385,
+        "category": "monument",
+        "city": "ISTANBUL",
+        "district": "Fatih"
+    },
+    {
+        "id": "10859",
+        "name": "Gevher Sultan Sebili",
+        "lat": 41.0132523,
+        "lon": 28.9573364,
+        "category": "monument",
+        "city": "ISTANBUL",
+        "district": "Fatih"
+    },
+    {
+        "id": "10860",
+        "name": "İbrahim Paşa Sebili, Hobyar",
+        "lat": 41.0140228,
+        "lon": 28.9739075,
+        "category": "monument",
+        "city": "ISTANBUL",
+        "district": "Fatih"
+    },
+    {
+        "id": "10861",
+        "name": "Hatice Sultan Sebili",
+        "lat": 41.0400162,
+        "lon": 28.9425087,
+        "category": "monument",
+        "city": "ISTANBUL",
+        "district": "Eyüpsultan"
+    },
+    {
+        "id": "10864",
+        "name": "Köprülü Mehmet Paşa Sebili",
+        "lat": 41.0083237,
+        "lon": 28.9719257,
+        "category": "monument",
+        "city": "ISTANBUL",
+        "district": "Fatih"
+    },
+    {
+        "id": "10867",
+        "name": "Musa Paşa Sebili",
+        "lat": 41.0135612,
+        "lon": 28.9762993,
+        "category": "monument",
+        "city": "ISTANBUL",
+        "district": "Fatih"
+    },
+    {
+        "id": "10868",
+        "name": "Hekimbaşı Ömer Efendi Sebili",
+        "lat": 41.0117188,
+        "lon": 28.9408722,
+        "category": "monument",
+        "city": "ISTANBUL",
+        "district": "Fatih"
+    },
+    {
+        "id": "10869",
+        "name": "Mehmet Ağa Sebili, Bulgurlu",
+        "lat": 41.0183258,
+        "lon": 29.0714989,
+        "category": "monument",
+        "city": "ISTANBUL",
+        "district": "Üsküdar"
+    },
+    {
+        "id": "10870",
+        "name": "Mustafa Paşa Sebili, Hacımimi",
+        "lat": 41.0269394,
+        "lon": 28.9801922,
+        "category": "monument",
+        "city": "ISTANBUL",
+        "district": "Beyoğlu"
+    },
+    {
+        "id": "10871",
+        "name": "Mehmet Ağa Sebili, Binbirdirek",
+        "lat": 41.0079613,
+        "lon": 28.976181,
+        "category": "monument",
+        "city": "ISTANBUL",
+        "district": "Fatih"
+    },
+    {
+        "id": "10872",
+        "name": "Ayşe Sultan Sebili",
+        "lat": 41.009407,
+        "lon": 28.9645004,
+        "category": "monument",
+        "city": "ISTANBUL",
+        "district": "Fatih"
+    },
+    {
+        "id": "10873",
+        "name": "Sultan Ahmet Külliyesi Sebili 3",
+        "lat": 41.0054169,
+        "lon": 28.9783726,
+        "category": "monument",
+        "city": "ISTANBUL",
+        "district": "Fatih"
+    },
+    {
+        "id": "10875",
+        "name": "Sebilhane-i Çinili",
+        "lat": 41.0180702,
+        "lon": 28.9563313,
+        "category": "monument",
+        "city": "ISTANBUL",
+        "district": "Fatih"
+    },
+    {
+        "id": "10877",
+        "name": "Şeyh Abdülkadir Sebili",
+        "lat": 41.0497169,
+        "lon": 28.9303665,
+        "category": "monument",
+        "city": "ISTANBUL",
+        "district": "Eyüpsultan"
+    },
+    {
+        "id": "10879",
+        "name": "Nişancı Cedid Sebili",
+        "lat": 41.0243416,
+        "lon": 28.9450493,
+        "category": "monument",
+        "city": "ISTANBUL",
+        "district": "Fatih"
+    },
+    {
+        "id": "10880",
+        "name": "Sebilhane-i Sultan Beyazıt",
+        "lat": 41.0109863,
+        "lon": 28.9640675,
+        "category": "monument",
+        "city": "ISTANBUL",
+        "district": "Fatih"
+    },
+    {
+        "id": "10881",
+        "name": "Takkeci İbrahim Ağa Sebili, Avlu Giriş",
+        "lat": 41.022344336,
+        "lon": 28.921152505,
+        "category": "monument",
+        "city": "ISTANBUL",
+        "district": "Zeytinburnu"
+    },
+    {
+        "id": "10882",
+        "name": "Takkeci İbrahim Ağa Sebili",
+        "lat": 41.022707612,
+        "lon": 28.921390894,
+        "category": "monument",
+        "city": "ISTANBUL",
+        "district": "Zeytinburnu"
+    },
+    {
+        "id": "10895",
+        "name": "Patara Oygu Mezarları",
+        "lat": 36.272309805,
+        "lon": 29.31896997,
+        "category": "monument",
+        "city": "ANTALYA",
+        "district": "Kaş"
+    },
+    {
+        "id": "10896",
+        "name": "Dış Kale Roma Mezarı (Kayseri)",
+        "lat": 38.72155439,
+        "lon": 35.486278223,
+        "category": "monument",
+        "city": "KAYSERI",
+        "district": "Melikgazi"
+    },
+    {
+        "id": "109",
+        "name": "Elazığ Arkeoloji ve Etnografya Müzesi",
+        "name_en": "Elazığ Archaeology and Ethnography Museum",
+        "lat": 38.673016,
+        "lon": 39.1901132,
+        "category": "museum",
+        "city": "ELAZIĞ",
+        "district": "Elazığ merkez"
+    },
+    {
+        "id": "10905",
+        "name": "Bursa Oda Mezarı",
+        "lat": 40.185334081,
+        "lon": 29.063254909,
+        "category": "monument",
+        "city": "BURSA",
+        "district": "Osmangazi"
+    },
+    {
+        "id": "10910",
+        "name": "Esentepe Oda Mezar",
+        "lat": 37.3163376,
+        "lon": 27.789011,
+        "category": "monument",
+        "city": "MUĞLA",
+        "district": "Milas"
+    },
+    {
+        "id": "10911",
+        "name": "Kalecik",
+        "lat": 38.5555344,
+        "lon": 43.3521347,
+        "category": "monument",
+        "city": "VAN",
+        "district": "Tuşba"
+    },
+    {
+        "id": "10912",
+        "name": "Zübeyde Hanım Anıt Mezarı",
+        "lat": 38.461083333,
+        "lon": 27.116833333,
+        "category": "monument",
+        "city": "IZMIR",
+        "district": "Karşıyaka"
+    },
+    {
+        "id": "10913",
+        "name": "Midas Anıtı (Yazılıkaya)",
+        "lat": 39.2004814,
+        "lon": 30.7136669,
+        "category": "monument",
+        "city": "ESKIŞEHIR",
+        "district": "Han"
+    },
+    {
+        "id": "10914",
+        "name": "Silivrikapı_Hipojesi",
+        "lat": 41.006489,
+        "lon": 28.921771,
+        "category": "monument",
+        "city": "ISTANBUL",
+        "district": "Fatih"
+    },
+    {
+        "id": "10915",
+        "name": "Şeyh Yunus Emre Türbesi",
+        "lat": 41.119416666,
+        "lon": 37.243611111,
+        "category": "tomb",
+        "city": "ORDU",
+        "district": "Ünye"
+    },
+    {
+        "id": "10916",
+        "name": "Çorum Saat Kulesi",
+        "lat": 40.549888888,
+        "lon": 34.953722222,
+        "category": "monument",
+        "city": "ÇORUM",
+        "district": "Çorum merkez"
+    },
+    {
+        "id": "10917",
+        "name": "Elâzığ Protestan Kilisesi",
+        "lat": 38.67722222,
+        "lon": 39.22444444,
+        "category": "monument",
+        "city": "ELAZIĞ",
+        "district": "Elazığ merkez"
+    },
+    {
+        "id": "10918",
+        "name": "Kuruköprü Anıt Kilisesi",
+        "lat": 36.98972222,
+        "lon": 35.32277778,
+        "category": "monument",
+        "city": "ADANA",
+        "district": "Seyhan"
+    },
+    {
+        "id": "10919",
+        "name": "Ashâb-ı Kehf Külliyesi",
+        "lat": 38.248333,
+        "lon": 36.855278,
+        "category": "monument",
+        "city": "KAHRAMANMARAŞ",
+        "district": "Afşin"
+    },
+    {
+        "id": "10920",
+        "name": "Büyük Ağa Medresesi",
+        "lat": 40.6585805,
+        "lon": 35.8348916,
+        "category": "monument",
+        "city": "AMASYA",
+        "district": "Amasya merkez"
+    },
+    {
+        "id": "10921",
+        "name": "Titus Tüneli",
+        "lat": 36.12277778,
+        "lon": 35.92916667,
+        "category": "monument",
+        "city": "HATAY",
+        "district": "Samandağ"
+    },
+    {
+        "id": "10923",
+        "name": "Beylerbeyi Sarayı",
+        "lat": 41.0426,
+        "lon": 29.0399,
+        "category": "monument",
+        "city": "ISTANBUL",
+        "district": "Üsküdar"
+    },
+    {
+        "id": "10924",
+        "name": "Alarahan",
+        "lat": 36.69222222,
+        "lon": 31.72361111,
+        "category": "monument",
+        "city": "ANTALYA",
+        "district": "Alanya"
+    },
+    {
+        "id": "10926",
+        "name": "Büyükada Rum Yetimhanesi",
+        "lat": 40.86083333,
+        "lon": 29.12333333,
+        "category": "monument",
+        "city": "ISTANBUL",
+        "district": "Prince Islands"
+    },
+    {
+        "id": "10927",
+        "name": "Alay Han",
+        "lat": 38.518611,
+        "lon": 34.354444,
+        "category": "monument",
+        "city": "AKSARAY",
+        "district": "Aksaray merkez"
+    },
+    {
+        "id": "10928",
+        "name": "Şarapsa Hanı",
+        "lat": 36.58819444,
+        "lon": 31.87111111,
+        "category": "monument",
+        "city": "ANTALYA",
+        "district": "Alanya"
+    },
+    {
+        "id": "10929",
+        "name": "Mindos Kapısı",
+        "lat": 37.037658,
+        "lon": 27.413412,
+        "category": "monument",
+        "city": "MUĞLA",
+        "district": "Bodrum"
+    },
+    {
+        "id": "10930",
+        "name": "Burmalı Minare Camii",
+        "lat": 40.65025,
+        "lon": 35.832438,
+        "category": "mosque",
+        "city": "AMASYA",
+        "district": "Amasya merkez"
+    },
+    {
+        "id": "10931",
+        "name": "Buruciye Medresesi",
+        "lat": 39.749094,
+        "lon": 37.015317,
+        "category": "monument",
+        "city": "SIVAS",
+        "district": "Sivas merkez"
+    },
+    {
+        "id": "10932",
+        "name": "Rami Kışlası",
+        "lat": 41.04916667,
+        "lon": 28.91555556,
+        "category": "monument",
+        "city": "ISTANBUL",
+        "district": "Eyüpsultan"
+    },
+    {
+        "id": "10933",
+        "name": "Hasan Paşa Hanı",
+        "lat": 37.912722222,
+        "lon": 40.237166666,
+        "category": "monument",
+        "city": "DIYARBAKIR",
+        "district": "Sur"
+    },
+    {
+        "id": "10934",
+        "name": "İshaklı Kervansarayı",
+        "lat": 38.53277778,
+        "lon": 31.22833333,
+        "category": "monument",
+        "city": "AFYONKARAHISAR",
+        "district": "Sultandağı"
+    },
+    {
+        "id": "10935",
+        "name": "Alanya Tersanesi ve Tophane",
+        "lat": 36.5342477,
+        "lon": 31.9987582,
+        "category": "monument",
+        "city": "ANTALYA",
+        "district": "Alanya"
+    },
+    {
+        "id": "10936",
+        "name": "İkinci Beyazıt Camii",
+        "lat": 40.65,
+        "lon": 35.827,
+        "category": "mosque",
+        "city": "AMASYA",
+        "district": "Amasya merkez"
+    },
+    {
+        "id": "10937",
+        "name": "Çanakkale Savaşları Gelibolu Tarihî Alanı",
+        "lat": 40.170321,
+        "lon": 26.367667,
+        "category": "monument",
+        "city": "CANAKKALE",
+        "district": "Eceabat"
+    },
+    {
+        "id": "10939",
+        "name": "Hıdırlık Tabyası",
+        "lat": 41.6867464,
+        "lon": 26.5189623,
+        "category": "monument",
+        "city": "EDIRNE",
+        "district": "Edirne merkez"
+    },
+    {
+        "id": "10940",
+        "name": "Kasımpaşa Un Fabrikası",
+        "lat": 41.030562082,
+        "lon": 28.969270525,
+        "category": "monument",
+        "city": "ISTANBUL",
+        "district": "Beyoğlu"
+    },
+    {
+        "id": "10941",
+        "name": "Kasımpaşa Tuz Ambarı",
+        "lat": 41.030014477,
+        "lon": 28.968812612,
+        "category": "monument",
+        "city": "ISTANBUL",
+        "district": "Beyoğlu"
+    },
+    {
+        "id": "10942",
+        "name": "Ferhat Bey Hamamı",
+        "lat": 41.577194444,
+        "lon": 27.764805555,
+        "category": "monument",
+        "city": "KIRKLARELI",
+        "district": "Vize"
+    },
+    {
+        "id": "10943",
+        "name": "Sokullu Mehmet Paşa Hamamı",
+        "lat": 41.408166666,
+        "lon": 27.351777777,
+        "category": "monument",
+        "city": "KIRKLARELI",
+        "district": "Lüleburgaz"
+    },
+    {
+        "id": "10945",
+        "name": "Ferhatpaşa Çiftliği",
+        "lat": 41.039777571,
+        "lon": 28.88863212,
+        "category": "monument",
+        "city": "ISTANBUL",
+        "district": "Bayrampaşa"
+    },
+    {
+        "id": "10947",
+        "name": "Belkahve Atatürk Heykeli",
+        "lat": 38.453805555,
+        "lon": 27.31725,
+        "category": "monument",
+        "city": "IZMIR",
+        "district": "Bornova"
+    },
+    {
+        "id": "10948",
+        "name": "Kaskatlı Havuz",
+        "lat": 38.429277777,
+        "lon": 27.144805555,
+        "category": "monument",
+        "city": "IZMIR",
+        "district": "Konak"
+    },
+    {
+        "id": "10980",
+        "name": "Taşçı Kabartmaları",
+        "lat": 38.19875,
+        "lon": 35.78111111,
+        "category": "monument",
+        "city": "KAYSERI",
+        "district": "Develi"
+    },
+    {
+        "id": "10981",
+        "name": "Hanyeri Kabartması",
+        "lat": 38.21341667,
+        "lon": 36.01494444,
+        "category": "monument",
+        "city": "ADANA",
+        "district": "Tufanbeyli"
+    },
+    {
+        "id": "10982",
+        "name": "Kybele Kaya Kabartması",
+        "lat": 38.59777778,
+        "lon": 27.5,
+        "category": "monument",
+        "city": "MANISA",
+        "district": "Şehzadeler"
+    },
+    {
+        "id": "10983",
+        "name": "İmamkulu Kabartması",
+        "lat": 38.24611111,
+        "lon": 35.92916667,
+        "category": "monument",
+        "city": "KAYSERI",
+        "district": "Tomarza"
+    },
+    {
+        "id": "10984",
+        "name": "Sivasa Yazıtı",
+        "lat": 38.64944444,
+        "lon": 34.29027778,
+        "category": "monument",
+        "city": "NEVŞEHIR",
+        "district": "Gülşehir"
+    },
+    {
+        "id": "10985",
+        "name": "Lysander statue at Ephesus",
+        "lat": 37.9497,
+        "lon": 27.3637,
+        "category": "monument",
+        "city": "IZMIR",
+        "district": "Selçuk"
+    },
+    {
+        "id": "10986",
+        "name": "Lacedaemonians, statues at Ephesus",
+        "lat": 37.9497,
+        "lon": 27.3637,
+        "category": "monument",
+        "city": "IZMIR",
+        "district": "Selçuk"
+    },
+    {
+        "id": "10987",
+        "name": "Lysander, Eteonikos, Pharax, statues at Ephesus",
+        "lat": 37.9497,
+        "lon": 27.3637,
+        "category": "monument",
+        "city": "IZMIR",
+        "district": "Selçuk"
+    },
+    {
+        "id": "10988",
+        "name": "Conon and Timotheos, statues at Ephesus",
+        "lat": 37.9497,
+        "lon": 27.3637,
+        "category": "monument",
+        "city": "IZMIR",
+        "district": "Selçuk"
+    },
+    {
+        "id": "10989",
+        "name": "Muvatalli Kabartması",
+        "lat": 37.0040016,
+        "lon": 35.7458725,
+        "category": "monument",
+        "city": "ADANA",
+        "district": "Ceyhan"
+    },
+    {
+        "id": "1099",
+        "name": "Topgözü Kanyonu",
+        "lat": 36.945839,
+        "lon": 28.808184,
+        "category": "other",
+        "city": "MUĞLA",
+        "district": "Köyceğiz"
+    },
+    {
+        "id": "10990",
+        "name": "Haron kabartması",
+        "lat": 36.210805555,
+        "lon": 36.178611111,
+        "category": "monument",
+        "city": "HATAY",
+        "district": "Antakya"
+    },
+    {
+        "id": "10991",
+        "name": "Babıali",
+        "lat": 41.01111111,
+        "lon": 28.97805556,
+        "category": "monument",
+        "city": "ISTANBUL",
+        "district": "Fatih"
+    },
+    {
+        "id": "10992",
+        "name": "Edirnekapı, Fatih",
+        "lat": 41.030242,
+        "lon": 28.935387,
+        "category": "monument",
+        "city": "ISTANBUL",
+        "district": "Eyüpsultan"
+    },
+    {
+        "id": "10994",
+        "name": "Mardin Kapı",
+        "lat": 37.9060707,
+        "lon": 40.2356339,
+        "category": "monument",
+        "city": "DIYARBAKIR",
+        "district": "Sur"
+    },
+    {
+        "id": "10995",
+        "name": "Yeni Kapı",
+        "lat": 37.910266227,
+        "lon": 40.245121654,
+        "category": "monument",
+        "city": "DIYARBAKIR",
+        "district": "Sur"
+    },
+    {
+        "id": "10996",
+        "name": "Hattuşa Aslanlı Kapı",
+        "lat": 40.010138888,
+        "lon": 34.610055555,
+        "category": "monument",
+        "city": "ÇORUM",
+        "district": "Boğazkale"
+    },
+    {
+        "id": "10997",
+        "name": "Zağnos Paşa Camii Güneş Saati",
+        "lat": 39.648435191,
+        "lon": 27.879773891,
+        "category": "monument",
+        "city": "BALIKESIR",
+        "district": "Karesi"
+    },
+    {
+        "id": "10998",
+        "name": "Bakırköy Ruh ve Sinir Hastalıkları Hastanesi Güneş Saati",
+        "lat": 40.9873924,
+        "lon": 28.8635311,
+        "category": "monument",
+        "city": "ISTANBUL",
+        "district": "Bakırköy"
+    },
+    {
+        "id": "10999",
+        "name": "Yeni Cami Güneş Saati",
+        "lat": 41.0170975,
+        "lon": 28.9715271,
+        "category": "monument",
+        "city": "ISTANBUL",
+        "district": "Fatih"
+    },
+    {
+        "id": "11000",
+        "name": "Murat Paşa Camii Güneş Saati",
+        "lat": 41.0102386,
+        "lon": 28.9487152,
+        "category": "monument",
+        "city": "ISTANBUL",
+        "district": "Fatih"
+    },
+    {
+        "id": "11001",
+        "name": "Güneş Saati, İzmir Arkeoloji Müzesi",
+        "lat": 38.4139214,
+        "lon": 27.1284313,
+        "category": "monument",
+        "city": "IZMIR",
+        "district": "Konak"
+    },
+    {
+        "id": "11002",
+        "name": "Güneş Saati, Fatih Camii",
+        "lat": 41.019577,
+        "lon": 28.9494934,
+        "category": "monument",
+        "city": "ISTANBUL",
+        "district": "Fatih"
+    },
+    {
+        "id": "11003",
+        "name": "Ayazma Camii Güneş Saati",
+        "lat": 41.0224266,
+        "lon": 29.008728,
+        "category": "monument",
+        "city": "ISTANBUL",
+        "district": "Üsküdar"
+    },
+    {
+        "id": "11004",
+        "name": "Kürkçübaşı Ahmet Şemsettin Camii Güneş Saati",
+        "lat": 41.0185585,
+        "lon": 28.9281158,
+        "category": "monument",
+        "city": "ISTANBUL",
+        "district": "Fatih"
+    },
+    {
+        "id": "11005",
+        "name": "Köprülü Mehmet Paşa Camii Güneş Saati",
+        "lat": 41.2446404,
+        "lon": 32.6924629,
+        "category": "monument",
+        "city": "KARABÜK",
+        "district": "Safranbolu"
+    },
+    {
+        "id": "11006",
+        "name": "Topkapı Sarayı Roma Dönemi Güneş Saati",
+        "lat": 41.0131416,
+        "lon": 28.984642,
+        "category": "monument",
+        "city": "ISTANBUL",
+        "district": "Fatih"
+    },
+    {
+        "id": "11007",
+        "name": "Ağalar Camii Güneş Saati",
+        "lat": 41.0130463,
+        "lon": 28.9841766,
+        "category": "monument",
+        "city": "ISTANBUL",
+        "district": "Fatih"
+    },
+    {
+        "id": "11009",
+        "name": "Kasım Çavuş Camii Güneş Saati",
+        "lat": 41.050312,
+        "lon": 28.9297695,
+        "category": "monument",
+        "city": "ISTANBUL",
+        "district": "Eyüpsultan"
+    },
+    {
+        "id": "11010",
+        "name": "Topkapı Sarayı Arz Odası Yanındaki Güneş Saati",
+        "lat": 41.0127411,
+        "lon": 28.9847107,
+        "category": "monument",
+        "city": "ISTANBUL",
+        "district": "Fatih"
+    },
+    {
+        "id": "11011",
+        "name": "Atik Mustafa Paşa Camii Güneş Saati",
+        "lat": 41.0386925,
+        "lon": 28.9440937,
+        "category": "monument",
+        "city": "ISTANBUL",
+        "district": "Fatih"
+    },
+    {
+        "id": "11012",
+        "name": "Ferruh Kethüda Camii Güneş Saati",
+        "lat": 41.0343285,
+        "lon": 28.9457417,
+        "category": "monument",
+        "city": "ISTANBUL",
+        "district": "Fatih"
+    },
+    {
+        "id": "11013",
+        "name": "El-Cezerî’nin Güneş Saati",
+        "lat": 37.912571,
+        "lon": 40.2359657,
+        "category": "monument",
+        "city": "DIYARBAKIR",
+        "district": "Sur"
+    },
+    {
+        "id": "11014",
+        "name": "Güneş Saati, Ayasofya Camii Avlusu",
+        "lat": 41.0084152,
+        "lon": 28.9789963,
+        "category": "monument",
+        "city": "ISTANBUL",
+        "district": "Fatih"
+    },
+    {
+        "id": "11015",
+        "name": "Topkapı Sarayı Güneş Saati",
+        "lat": 41.0133247,
+        "lon": 28.9845238,
+        "category": "monument",
+        "city": "ISTANBUL",
+        "district": "Fatih"
+    },
+    {
+        "id": "11016",
+        "name": "Mihrimah Sultan Camii Güneş Saati",
+        "lat": 41.0266151,
+        "lon": 29.0159569,
+        "category": "monument",
+        "city": "ISTANBUL",
+        "district": "Üsküdar"
+    },
+    {
+        "id": "11017",
+        "name": "Güneş Saati (Çorlulu Ali Paşa Camii)",
+        "lat": 41.03406645,
+        "lon": 28.960456462,
+        "category": "monument",
+        "city": "ISTANBUL",
+        "district": "Beyoğlu"
+    },
+    {
+        "id": "11018",
+        "name": "Hattuşa Sfenksli Kapı",
+        "lat": 40.0061798,
+        "lon": 34.6166763,
+        "category": "monument",
+        "city": "ÇORUM",
+        "district": "Boğazkale"
+    },
+    {
+        "id": "11019",
+        "name": "Lozan Kapısı",
+        "lat": 38.429805555,
+        "lon": 27.142083333,
+        "category": "monument",
+        "city": "IZMIR",
+        "district": "Konak"
+    },
+    {
+        "id": "11020",
+        "name": "Montrö Kapısı",
+        "lat": 38.427861111,
+        "lon": 27.141611111,
+        "category": "monument",
+        "city": "IZMIR",
+        "district": "Konak"
+    },
+    {
+        "id": "11021",
+        "name": "9 Eylül Kapısı",
+        "lat": 38.424305555,
+        "lon": 27.14325,
+        "category": "monument",
+        "city": "IZMIR",
+        "district": "Konak"
+    },
+    {
+        "id": "11022",
+        "name": "Cumhuriyet Kapısı",
+        "lat": 38.428055555,
+        "lon": 27.149555555,
+        "category": "monument",
+        "city": "IZMIR",
+        "district": "Konak"
+    },
+    {
+        "id": "11023",
+        "name": "26 Ağustos Kapısı",
+        "lat": 38.430972222,
+        "lon": 27.146083333,
+        "category": "monument",
+        "city": "IZMIR",
+        "district": "Konak"
+    },
+    {
+        "id": "1108",
+        "name": "Nemrut Crater and Lake",
+        "lat": 38.6249855,
+        "lon": 42.2240728,
+        "category": "other",
+        "city": "BITLIS",
+        "district": "Güroymak"
+    },
+    {
+        "id": "1110",
+        "name": "Nusret Mayın Gemisi",
+        "name_en": "Nusret Minelayer",
+        "lat": 36.9078739,
+        "lon": 34.8849727,
+        "category": "other",
+        "city": "MERSIN",
+        "district": "Tarsus"
+    },
+    {
+        "id": "1114",
+        "name": "Hunat Hatun Külliyesi",
+        "lat": 38.720869,
+        "lon": 35.4910241,
+        "category": "other",
+        "city": "KAYSERI",
+        "district": "Melikgazi"
+    },
+    {
+        "id": "11174",
+        "name": "Pertevniyal Valide Sultan Fountain (Eyüpsultan)",
+        "lat": 41.041211026,
+        "lon": 28.939499148,
+        "category": "monument",
+        "city": "ISTANBUL",
+        "district": "Eyüpsultan"
+    },
+    {
+        "id": "11175",
+        "name": "Kadı Ali Fountain",
+        "lat": 41.7363994,
+        "lon": 27.2256211,
+        "category": "monument",
+        "city": "KIRKLARELI",
+        "district": "Kırklareli merkez"
+    },
+    {
+        "id": "1119",
+        "name": "Can Kedi Evi",
+        "lat": 38.5021301,
+        "lon": 43.351512,
+        "category": "other",
+        "city": "VAN",
+        "district": "İpekyolu"
+    },
+    {
+        "id": "112",
+        "name": "Türkiye Gazeteciler Cemiyeti Basın Müzesi",
+        "name_en": "TGC Press Media Museum",
+        "lat": 41.0085619,
+        "lon": 28.9722162,
+        "category": "museum",
+        "city": "ISTANBUL",
+        "district": "Fatih"
+    },
+    {
+        "id": "1123",
+        "name": "7 Asırlık Çınar",
+        "lat": 40.3920365,
+        "lon": 30.4938548,
+        "category": "other",
+        "city": "SAKARYA",
+        "district": "Taraklı"
+    },
+    {
+        "id": "1126",
+        "name": "Germiyan Konakları",
+        "lat": 39.4221804,
+        "lon": 29.9795253,
+        "category": "other",
+        "city": "KÜTAHYA",
+        "district": "Kütahya merkez"
+    },
+    {
+        "id": "1127",
+        "name": "Küp Şelalesi",
+        "lat": 37.6875417,
+        "lon": 35.5091739,
+        "category": "other",
+        "city": "ADANA",
+        "district": "Aladağ"
+    },
+    {
+        "id": "1128",
+        "name": "Küp Şelaleleri",
+        "lat": 37.6899609,
+        "lon": 35.5029409,
+        "category": "other",
+        "city": "ADANA",
+        "district": "Aladağ"
+    },
+    {
+        "id": "1131",
+        "name": "Toparlar Şelalesi",
+        "lat": 36.9986411,
+        "lon": 28.6330809,
+        "category": "other",
+        "city": "MUĞLA",
+        "district": "Köyceğiz"
+    },
+    {
+        "id": "1135",
+        "name": "Lavanda field",
+        "lat": 37.8486819,
+        "lon": 30.2789018,
+        "category": "other",
+        "city": "ISPARTA",
+        "district": "Keçiborlu"
+    },
+    {
+        "id": "114",
+        "name": "Kurtuluş Müzesi",
+        "name_en": "Kurtuluş Müzesi",
+        "lat": 39.7646958,
+        "lon": 30.5235716,
+        "category": "museum",
+        "city": "ESKIŞEHIR",
+        "district": "Odunpazarı"
+    },
+    {
+        "id": "1143",
+        "name": "Koyunbaba Köprüsü",
+        "name_en": "Koyunbaba Bridge",
+        "lat": 40.9702503,
+        "lon": 34.8006043,
+        "category": "other",
+        "city": "ÇORUM",
+        "district": "Osmancık"
+    },
+    {
+        "id": "116",
+        "name": "Odunpazarı Ahşap Eserler Müzesi",
+        "lat": 39.7632954,
+        "lon": 30.5248908,
+        "category": "museum",
+        "city": "ESKIŞEHIR",
+        "district": "Odunpazarı"
+    },
+    {
+        "id": "1166",
+        "name": "Hazzopulo Pasajı",
+        "name_en": "Passaggio Hazzopulo",
+        "lat": 41.0333902,
+        "lon": 28.9760307,
+        "category": "other",
+        "city": "ISTANBUL",
+        "district": "Beyoğlu"
+    },
+    {
+        "id": "117",
+        "name": "Hazeranlar Konağı",
+        "name_en": "Hazeranlar Konağı",
+        "lat": 40.652291,
+        "lon": 35.8297873,
+        "category": "museum",
+        "city": "AMASYA",
+        "district": "Amasya merkez"
+    },
+    {
+        "id": "1181",
+        "name": "Tarsus Saat Kulesi",
+        "lat": 36.9157765,
+        "lon": 34.8977241,
+        "category": "other",
+        "city": "MERSIN",
+        "district": "Tarsus"
+    },
+    {
+        "id": "1194",
+        "name": "Dalgakıran Şehir Manzarası",
+        "lat": 41.4592662,
+        "lon": 31.784895,
+        "category": "other",
+        "city": "ZONGULDAK",
+        "district": "Zonguldak merkez"
+    },
+    {
+        "id": "1196",
+        "name": "Varagel Tüneli",
+        "lat": 41.4653279,
+        "lon": 31.7884363,
+        "category": "other",
+        "city": "ZONGULDAK",
+        "district": "Zonguldak merkez"
+    },
+    {
+        "id": "1198",
+        "name": "Ayvat Bendi Tabiat Parkı",
+        "lat": 41.1969538,
+        "lon": 28.9198767,
+        "category": "other",
+        "city": "ISTANBUL",
+        "district": "Eyüpsultan"
+    },
+    {
+        "id": "120",
+        "name": "Nazilli Belediyesi Etnoğrafya Müzesi",
+        "name_en": "Ethnography Museum Municipality of Nazilli",
+        "lat": 37.9146302,
+        "lon": 28.3265344,
+        "category": "museum",
+        "city": "AYDIN",
+        "district": "Nazilli"
+    },
+    {
+        "id": "1202",
+        "name": "Meher kapi",
+        "lat": 38.5170965,
+        "lon": 43.3890701,
+        "category": "other",
+        "city": "VAN",
+        "district": "Tuşba"
+    }
+]
